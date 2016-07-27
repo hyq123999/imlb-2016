@@ -4,6 +4,11 @@ IMLB 2016, Monday
 
 :Date: $Date: 2016-06-20 (Monday, 20 June 2016) $
 
+.. |H2O| replace:: H \:sub:`2`\ O
+.. |H2| replace:: H \:sub:`2`
+.. |CO2| replace:: CO \:sub:`2`
+.. |Li2O| replace:: Li\ :sub:`2`\ O
+
 ---------------------------------
 J. M. Tarascon, Collège de France
 ---------------------------------
@@ -153,10 +158,6 @@ Questions
 ------------------------------
 H. A. Gasteiger, U. of München
 ------------------------------
-
-.. |H2O| replace:: H \:sub:`2`\ O
-.. |H2| replace:: H \:sub:`2`
-.. |CO2| replace:: CO \:sub:`2`
 
 - on-line electrochemical mass spectrometry
 
