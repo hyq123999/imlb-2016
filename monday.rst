@@ -324,3 +324,33 @@ Solid electrolytes: an attempt at an impartial view.
 
   - slower kinetics and thermodynamics
 
+-------------------------------------------
+Yoshiharu Uchimoto, Kyoto University, Japan
+-------------------------------------------
+
+- ionic resistance
+
+- charge transfer resistance
+
+- diffusion in active material of electrode
+
+- energy-scanning confocal XRD
+
+- time resolution: 40 seconds per spectrum
+
+- conductivity of electrolyte is best at 1M |LiPF6|
+
+https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64776.html
+
+-------------------------------
+Nicolas Dupré, CNRS-IMN, France
+-------------------------------
+
+- very few papers do full cells of Si anodes
+
+- half cell: flat capacity retention,
+  "unlimited" Li supply
+
+- full cell: decreasing capacity retention,
+  limited available Li,
+  irreversible parasitic reactions consume Li
