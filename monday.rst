@@ -12,9 +12,9 @@ IMLB 2016, Monday
 .. |Li+| replace:: Li\ :sup:`+`
 .. |garnet| replace:: Li\ :sub:`7`\ P\ :sub:`3`\ S\ :sub:`11`
 
----------------------------------
-J. M. Tarascon, Collège de France
----------------------------------
+--------------------------------------
+Jean-Marie Tarascon, Collège de France
+--------------------------------------
 
 - periodic table
 
@@ -28,9 +28,9 @@ J. M. Tarascon, Collège de France
 
     - genome of materials
 
--------------------
-D. Howell, U.S. DOE
--------------------
+---------------------
+Dave Howell, U.S. DOE
+---------------------
 
 - electric vehicles, hybrid vehicles
 
@@ -48,11 +48,11 @@ D. Howell, U.S. DOE
 
 - anode: silicon
 
-- cathode: sulfure, high V layered oxides, Ni-rich
+- cathode: sulfur, high V layered oxides, Ni-rich
 
----------------------------------
-I. Cekic-Laskovic, U. of Muenster
----------------------------------
+--------------------------------------
+Martin Winter, U. of Muenster, Germany
+--------------------------------------
 
 .. |LiPF6| replace:: LiPF\ :sub:`6`\ 
 
@@ -78,15 +78,15 @@ Kim Ping, Samsung SDI
 
 - Also, thermal stability and gas generation problems
 
-- 3.5 to 3.6 g/cm^2
+- 3.5 to 3.6 :math:`\mathrm{g/cm^2}`
 
 - performance: initial coulombic efficiency
 
 - lithium-rich was tried, but low packing density, so low volumetric capacity
 
-----------------------
-W. Jeong, LG chemistry
-----------------------
+--------------------------------
+Wonhee Jeong, LG Chemical, Korea
+--------------------------------
 
 - low-voltage hybrids
 
@@ -106,13 +106,14 @@ W. Jeong, LG chemistry
 
 - recuperation efficiency at low (freezing) / high temperature (above 60°C)
 
-- flat voltage profile not all good, because you can't tell state of charge
+- flat voltage profile not all good,
+  because you can't tell state of charge
 
 - at least 60 Ah for a premium vehicle
 
-----------------------------
-T. J. Miller, Ford Motor Co.
-----------------------------
+-----------------------------
+Ted J. Miller, Ford Motor Co.
+-----------------------------
 
 - Safety & modeling
 
@@ -158,9 +159,9 @@ Questions
 
 - Is it thermodynamically stable or kinetically trapped?
 
-------------------------------
-H. A. Gasteiger, U. of München
-------------------------------
+-------------------------------------------
+Hubert A. Gasteiger, U. of München, Germany
+-------------------------------------------
 
 - on-line electrochemical mass spectrometry
 
@@ -188,9 +189,9 @@ H. A. Gasteiger, U. of München
 
     - holes in SEI or proton tunneling?
 
-------------------------------------
-Peter Novák, Paul Scherrer Institute
-------------------------------------
+------------------------------------------------
+Petr Novák, Paul Scherrer Institute, Switzerland
+------------------------------------------------
 
 - Reality check
 
@@ -254,9 +255,9 @@ Q&A
 CEO of battery company says
 the only units they need are US dollars and Euros.
 
-----------------------------------
-Chrisophe Pilllot, Avicenne Energy
-----------------------------------
+------------------------------------------
+Chrisophe Pilllot, Avicenne Energy, France
+------------------------------------------
 
 - industry focuses on electric vehicles sold per year
 
