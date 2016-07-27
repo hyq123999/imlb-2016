@@ -212,7 +212,105 @@ Peter Novák, Paul Scherrer Institute
 
 - Specific energy: :math:`W = U Q`
 
+- how to apply for research funds (tongue in cheek)
+
+  - 2Li + O ⇄ |Li2O|
+  - standard potential in 1M acid:
+    Li ≈ -3.0 V vs. SHE,
+    |O2| ≈ 1.2 V vs. SHE
+  - this yields 4V cell, 1800 mAh/g, 7200 Wh/kg
+
+  - losses: heat and side reactions
+
 - nano
 
   - good: shorter diffusion path
-  - bad: more side reaction
+  - bad: more side reactions
+  - nano is necessary for chemistries based on conversion reactions
+    to have practical rate capability and fast kinetics
+  - :math:`\tau = \frac{r^2}{\pi D}`,
+    where :math:`\tau` is average charging time in seconds
+    and :math:`D \approx 10^{-12} \mathrm{cm^2/s}`
+
+- cell performance
+
+  - diffusion of |Li+| ions through electrode
+  - mass transport of |Li+| ions through electrolyte
+  - electrode/electrolyte interface (charge transfer)
+  - porosity determines power
+
+    - https://dx.doi.org/10.1002/advs.201500083
+
+- problems
+
+  - transition metal leaching
+  - half cells tend to perform better than full cells
+    (sometimes they perform worse, though)
+
+~~~
+Q&A
+~~~
+
+CEO of battery company says
+the only units they need are US dollars and Euros.
+
+----------------------------------
+Chrisophe Pilllot, Avicenne Energy
+----------------------------------
+
+- industry focuses on electric vehicles sold per year
+
+- government focus on electric vehicles on the road
+
+- 140,000 tons of cathode material
+
+- lead acid is still 95% of the rechargeable battery market
+
+- LFP, LMO, NCA, NMC, LCO
+
+--------------------------------------------
+Jürgen Janek, University of Giessen, Germany
+--------------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Solid electrolytes: an attempt at an impartial view.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- "thick film" (at least μm thick)
+
+
+- advantages of solid state electrolytes
+
+  - no separator needed
+
+  - selective ion mobility (|Li+| only)
+
+    - but cannot also be electrically conductive
+
+    - might work with lithium metal anode (prevent dendrite formation)
+      activation energies must be < 0.29 eV
+      but solid electrolytes are crystalline and have defects
+      (dislocations, grain boundaries, etc.)
+
+  - SEI formation and stability considerations
+
+  - example material: garnet |garnet| ("seven-eleven")
+
+    - unusual in being stable against lithium metal
+
+- disadvantages
+
+  - must by synthesized (not commercially available)
+
+  - lower ionic conductivity (probably not the major issue, though)
+
+  - partial electronic conductivity is hard to avoid
+
+    - but probably self-discharge is not always a killer
+
+  - more weight than liquid electrolytes
+
+  - requires mechanical pressure
+
+  - slower kinetics and thermodynamics
+
