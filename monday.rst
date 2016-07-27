@@ -60,13 +60,15 @@ Martin Winter, U. of Muenster, Germany
 
 - electrolyte additives can be highly toxic (DMFP, DEFP vs. sarin)
 
-- however, these do improve performance and are created in the cell by |LiPF6| decomposition
+- however, these do improve performance
+  and are created in the cell by |LiPF6| decomposition
 
 - avoid formation of HF
 
 - avoid pitting of aluminum
 
-- additives at 1 wt. % are beneficial for high-area anode materials but not for low-area anode materials
+- additives at 1 wt. % are beneficial for high-area anode materials
+  but not for low-area anode materials
 
 ---------------------
 Kim Ping, Samsung SDI
@@ -96,7 +98,9 @@ Wonhee Jeong, LG Chemical, Korea
 
 - Three chemistries:
 
-  - NMC, LMO or LTO has good high/low T performance (stable at 70°C, ok at 80°C), as well as durability, high power
+  - NMC, LMO or LTO has good high/low T performance
+    (stable at 70°C, ok at 80°C),
+    as well as durability, high power
 
   - LFP, graphite
 
@@ -133,7 +137,8 @@ Michael Thackeray, ANL
 
 - Structural design of lithium metal oxide cathodes
 
-- capacity of 18650 has increased linearly with time mostly because of engineering improvements, not chemistry
+- capacity of 18650 has increased linearly with time
+  mostly because of engineering improvements, not chemistry
 
 - β-MnO\ :sub:`2`\ : inactive stabilizer
 - and
@@ -145,7 +150,9 @@ Michael Thackeray, ANL
 
   - XRD can't distinguish layered from spinel
 
-- voltage fade: transition metal ion migration into Li layer: what Li concentration start at?
+- voltage fade: transition metal ion migration into Li layer:
+
+  - what Li concentration does it start at?
 
 - target 6% spinel content surface-stabilized?
 
@@ -175,13 +182,15 @@ Hubert A. Gasteiger, U. of München, Germany
 
   - unexpected |CO2| evolution
 
-  - SEI suppresses |H2| formation (won't reduce |H2O|) at negative electrode (carbon)
+  - SEI suppresses |H2| formation (won't reduce |H2O|)
+    at negative electrode (carbon)
 
   - uses C\ :sup:`12`\ / C\ :sup:`13`\ 
 
 - cross-talk in full cells
 
-  - oxidation of EC releases protic species, then goes to negative electrode and forms |H2| gas
+  - oxidation of EC releases protic species,
+    then goes to negative electrode and forms |H2| gas
 
   - uses anode additives to suppress
 
