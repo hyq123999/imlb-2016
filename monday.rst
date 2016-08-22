@@ -11,6 +11,11 @@ IMLB 2016, Monday
 .. |Li2O| replace:: Li\ :sub:`2`\ O
 .. |Li+| replace:: Li\ :sup:`+`
 .. |garnet| replace:: Li\ :sub:`7`\ P\ :sub:`3`\ S\ :sub:`11`
+.. |LiPF6| replace:: LiPF\ :sub:`6`\ 
+
+.. contents::
+
+https://ecs.confex.com/ecs/imlb2016/webprogram/Session15446.html
 
 --------------------------------------
 Jean-Marie Tarascon, Collège de France
@@ -27,6 +32,8 @@ Jean-Marie Tarascon, Collège de France
   - theoretical combinatorial chemistry
 
     - genome of materials
+
+http://imlb.org/speakers/#Tarascon
 
 ---------------------
 Dave Howell, U.S. DOE
@@ -50,11 +57,12 @@ Dave Howell, U.S. DOE
 
 - cathode: sulfur, high V layered oxides, Ni-rich
 
+http://imlb.org/speakers/#Howell
+
 --------------------------------------
 Martin Winter, U. of Muenster, Germany
 --------------------------------------
 
-.. |LiPF6| replace:: LiPF\ :sub:`6`\ 
 
 - |LiPF6|: stable with aluminum, but promotes cathode dissolution
 
@@ -70,9 +78,11 @@ Martin Winter, U. of Muenster, Germany
 - additives at 1 wt. % are beneficial for high-area anode materials
   but not for low-area anode materials
 
----------------------
-Kim Ping, Samsung SDI
----------------------
+http://imlb.org/speakers/#Winter
+
+--------------------------------------------
+Il-Seok (Stephen) Kim, Samsung SDI, S. Korea
+--------------------------------------------
 
 - SAIT → R&D Center → SDI R&D team
 
@@ -86,9 +96,11 @@ Kim Ping, Samsung SDI
 
 - lithium-rich was tried, but low packing density, so low volumetric capacity
 
---------------------------------
-Wonhee Jeong, LG Chemical, Korea
---------------------------------
+http://imlb.org/speakers/#Kims
+
+-----------------------------------
+Wonhee Jeong, LG Chemical, S. Korea
+-----------------------------------
 
 - low-voltage hybrids
 
@@ -115,6 +127,8 @@ Wonhee Jeong, LG Chemical, Korea
 
 - at least 60 Ah for a premium vehicle
 
+http://imlb.org/speakers/#Jeong
+
 -----------------------------
 Ted J. Miller, Ford Motor Co.
 -----------------------------
@@ -130,6 +144,8 @@ Ted J. Miller, Ford Motor Co.
 - crash: < 100 ms
 
 - Randles circuit
+
+http://imlb.org/speakers/#Miller
 
 ----------------------
 Michael Thackeray, ANL
@@ -166,6 +182,10 @@ Questions
 
 - Is it thermodynamically stable or kinetically trapped?
 
+http://imlb.org/speakers/#Thackeray
+
+https://ecs.confex.com/ecs/imlb2016/webprogram/Session15447.html
+
 -------------------------------------------
 Hubert A. Gasteiger, U. of München, Germany
 -------------------------------------------
@@ -197,6 +217,12 @@ Hubert A. Gasteiger, U. of München, Germany
   - SEI slows down the protic species, but doesn't stop them
 
     - holes in SEI or proton tunneling?
+
+http://imlb.org/speakers/#Gasteiger
+
+-----------------------------------------------------------------------------
+
+https://ecs.confex.com/ecs/imlb2016/webprogram/Session15447.html
 
 ------------------------------------------------
 Petr Novák, Paul Scherrer Institute, Switzerland
@@ -257,16 +283,18 @@ Petr Novák, Paul Scherrer Institute, Switzerland
   - half cells tend to perform better than full cells
     (sometimes they perform worse, though)
 
-~~~
-Q&A
-~~~
+~~~~~~~~~
+Questions
+~~~~~~~~~
 
 CEO of battery company says
 the only units they need are US dollars and Euros.
 
-------------------------------------------
-Chrisophe Pilllot, Avicenne Energy, France
-------------------------------------------
+http://imlb.org/speakers/#Novak
+
+-----------------------------------------
+Chrisophe Pillot, Avicenne Energy, France
+-----------------------------------------
 
 - industry focuses on electric vehicles sold per year
 
@@ -277,6 +305,8 @@ Chrisophe Pilllot, Avicenne Energy, France
 - lead acid is still 95% of the rechargeable battery market
 
 - LFP, LMO, NCA, NMC, LCO
+
+http://imlb.org/speakers/#Pillot
 
 --------------------------------------------
 Jürgen Janek, University of Giessen, Germany
@@ -324,6 +354,8 @@ Solid electrolytes: an attempt at an impartial view.
 
   - slower kinetics and thermodynamics
 
+http://imlb.org/speakers/#Janek
+
 -------------------------------------------
 Yoshiharu Uchimoto, Kyoto University, Japan
 -------------------------------------------
@@ -340,11 +372,13 @@ Yoshiharu Uchimoto, Kyoto University, Japan
 
 - conductivity of electrolyte is best at 1M |LiPF6|
 
+http://imlb.org/speakers/#Utchimoto
+
 https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64776.html
 
--------------------------------
-Nicolas Dupré, CNRS-IMN, France
--------------------------------
+------------------------------------
+Dominique Guyomard, CNRS-IMN, France
+------------------------------------
 
 - very few papers do full cells of Si anodes
 
@@ -354,3 +388,88 @@ Nicolas Dupré, CNRS-IMN, France
 - full cell: decreasing capacity retention,
   limited available Li,
   irreversible parasitic reactions consume Li
+
+- 19F NMR, XPS F1 at lithiated state, XPC C 1s at lithiated state
+
+- conditions
+
+  - not calendared
+  - 80% Si, 12% carbon black, 8% CMC
+  - 20μm, 1mg/cm^2
+  - 1200 mAh/g, 0.9 mAh/cm^2
+  - 5 mV to 1.0 V
+  - NMC: 2.8-4.2 V
+  - C/2
+
+- LiF forms on first cycle, then stops growing
+
+- organic carbonates grow continuously
+
+- Difference between full and half cells: Li not present in XPS
+
+- No more LiF and Li-carbonates, but other carbonates.
+
+- Fluorine not involved, but Li species might be.
+
+~~~~~~~~~~
+Conclusion
+~~~~~~~~~~
+
+All cyclable Li consumed in parasitic reactions.
+
+Combine carbonates with ionic liquids to improve.
+
+~~~~~~~~~
+Questions
+~~~~~~~~~
+
+Q: Is it possible the surface area is increasing?
+    A: Probably not, since only one third of capacity is being used.
+
+Q: What about size of particles in full cell vs. half cell?
+    A: It becomes less reduced, so that does affect SEI.
+
+Q: [Not recorded]
+    A: "Breathing" of the SEI [...]
+
+Q: electrode damage?
+    A: No, when cycled in fresh half-cells, they are fine.
+
+Q: SEI?
+    A: No, NMR shows Li is not lost in SEI.
+
+http://imlb.org/speakers/#Guyomard
+
+https://ecs.confex.com/ecs/imlb2016/webprogram/Paper76657.html
+
+----------------------------------------
+Minuro Inaba, Doshisha University, Japan
+----------------------------------------
+
+[ Not recorded ]
+
+http://imlb.org/speakers/#Inaba
+
+-----------------------
+Hong Li, IOP/CAS, China
+-----------------------
+
+- metal anodes have a bad safety record
+
+http://imlb.org/speakers/#Li
+
+-------------------------------------------------------
+Masayoshi Watanabe, Yokohama National University, Japan
+-------------------------------------------------------
+
+[ Not recorded ]
+
+http://imlb.org/speakers/#Watanabe
+
+-------------------------------------------
+Chunsheng Wang, University of Maryland, USA
+-------------------------------------------
+
+[ Not recorded ]
+
+http://imlb.org/speakers/#Wang
