@@ -9,23 +9,31 @@ IMLB 2016, Tuesday
 .. |O2| replace:: O\ :sub:`2`
 .. |CO2| replace:: CO\ :sub:`2`
 .. |LiO2| replace:: LiO\ :sub:`2`
+.. |LiCoO2| replace:: LiCoO\ :sub:`2`
 .. |Li2O| replace:: Li\ :sub:`2`\ O
 .. |Li2O2| replace:: Li\ :sub:`2`\ O\ :sub:`2`
 .. |Li+| replace:: Li\ :sup:`+`
 .. |garnet| replace:: Li\ :sub:`7`\ P\ :sub:`3`\ S\ :sub:`11`
-.. |LiPF6| replace:: LiPF\ :sub:`6`\ 
-.. |e-| replace:: e\ :sup:`-`\ 
+.. |LiPF6| replace:: LiPF\ :sub:`6`
+.. |e-| replace:: e\ :sup:`-`
 .. |NaO2| replace:: NaO\ :sub:`2`
 .. |Na2O2| replace:: Na\ :sub:`2`\ O\ :sub:`2`
 .. |LiMO2| replace:: LiMO\ :sub:`2`
 .. |Li2MO3| replace:: Li\ :sub:`2`\ MO\ :sub:`3`
 .. |Li3MO4| replace:: Li\ :sub:`3`\ MO\ :sub:`4`
+.. |LiFePO4| replace:: LiFePO\ :sub:`4`
+
+.. contents::
 
 https://ecs.confex.com/ecs/imlb2016/webprogram/Session15448.html
 
 -------------------------------------
 Peter Bruce, University of Oxford, UK
 -------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Overview of Metal Air Batteries
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Li metal / LiPF6 in tetraglycine / carbon
 
@@ -54,9 +62,15 @@ Peter Bruce, University of Oxford, UK
 
 http://imlb.org/speakers/#Bruce
 
+https://dx.doi.org/10.1038/nmat4629
+
 -----------------------------------------------
 Larry Curtiss, Argonne National Laboratory, USA
 -----------------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The Role of Lithium Superoxide in |LiO2| Batteries
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Problem: Composition / morphology of discharge product is difficult to determine.
 
@@ -73,13 +87,21 @@ Larry Curtiss, Argonne National Laboratory, USA
 - Fails after 40-60 cycles due to corrosion of Li anode,
   which is caused by |O2| cross-over.
 
-- |LiO2| is a half-metal, and the electrolyte helps suppess disproportionation.
+- |LiO2| is a half-metal, and the electrolyte helps suppress disproportionation.
 
 http://imlb.org/speakers/#Curtiss
+
+https://dx.doi.org/10.1002/cplu.201402053
+
+https://dx.doi.org/10.3390/en8010529
 
 ------------------------
 Yang Shao-Horn, MIT, USA
 ------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Probing Reactivity at the Electrode and Electrolyte Interface
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - More is known about SEI on graphite (negative) electrode.
 
@@ -109,6 +131,10 @@ http://imlb.org/speakers/#Horn
 ---------------------------------
 Bryan McCloskey, UC Berkeley, USA
 ---------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ion Solvation Effects in the Nonaqueous |LiO2| Electrochemistry
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Capacity limitations and ion solution in non-aqueous Li-ion batteries.
 
@@ -143,6 +169,10 @@ http://imlb.org/speakers/#McCloskey
 Peter Lamp, BMW, Germany
 ------------------------
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Advanced Materials for Future Generations of Automotive Batteries: Potential and Limits
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 - For industry, you must use high loading.
 
 - New materials are promising, but no winner as of yet.
@@ -163,7 +193,9 @@ http://imlb.org/speakers/#Lamp
 Y. Shirley Meng, UC San Diego, USA
 ----------------------------------
 
-Making the Invisible Visible
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Making the Invisible Visible: Advanced Diagnosis Methods for Lithium Ion Rechargeable Battery Materials
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Don't be blinded by research dollars and impact factors.
 
@@ -225,6 +257,10 @@ Q: What about amorphous electrode materials like silicon?
 Marie-Liesse Doublet, Univ. Montpellier, France
 -----------------------------------------------
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The Intriguing Question of Anionic Redox in High-Energy Density Cathodes for Li-ion Batteries
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Can we increase voltage and capacity simultaneously?
 
 - Nernst equation: :math:`-F V = \Delta_i G = \sum_i u_i v_i = \Delta E_{\theta_{electronic}} + \Delta E_{\theta_{ionic}}`
@@ -285,9 +321,112 @@ Questions
 Q. What about the Mn/Nb?
     A. It does not last many cycles.
 
-Q. What about electron-spin resonance vs. electron coupline (e.g. Tarascon)?
+Q. What about electron-spin resonance vs. electron coupling (e.g. Tarascon)?
     A. [Not recorded.]
+
+--------------------------------------------------------
+Kisuk Kang, Seoul National Laboratory, Republic of Korea
+--------------------------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Simple Metal Oxide as a New Cathode for Lithium Ion Batteries
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- crystals with open channels for diffusion channels:
+
+  - layered (e.g. |LiCoO2|)
+  - olivine (e.g. |LiFePO4|)
+  - spinel (e.g. NMC)
+
+- alternative: LiF + FeF\ :sub:`2` nanocomposite
+
+- can these be applied to other materials?
+
+- MnO/C + LiF
+
+- MnO is an anode materials below 0.5 V as conversion reaction
+
+- CVs: surface-controlled (95%) or diffusion-controlled (5%)
+
+- XANES, EELS (Mn oxidation correlated to F atoms)
+
+- HADF, STEM, FFT
+
+- shell regions are not rock salt
+
+- uses high-energy ball-milling
+
+http://imlb.org/speakers/#Kang
 
 -----------------------------------------------------------------------------
 
 https://ecs.confex.com/ecs/imlb2016/webprogram/Session15449.html
+
+---------------------------------------
+Jeff Dahn, Dalhousie University, Canada
+---------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Electrolytes without Ethylene Carbonate for High Voltage NMC/Graphite Li-Ion Cells
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- outline:
+
+  - explanation of methods
+  - comparison of EC with EC-free electrolytes
+  - best EC-free electrolyte
+
+#. Gas generation
+#. Impedance growth
+
+  - symmetric cells
+
+#. Li plating
+#. Long-term cycling
+#. Safety
+
+- Isothermal battery.
+
+- Ultra-high precision coulometry
+
+  - Costs $10,000 per channel
+
+  - EC/EMC 3:7
+
+- If you're going to compare EC to EC-free,
+  use a good EC electrolyte.
+
+- Kathlyne Nelson & J. R. Dahn
+
+  - 2% of EST + 2% DTD + 2% TTSPi
+  - https://dx.doi.org/10.1149/2.0831506jes
+
+- Linear alkyl carbonates do not passivate lithium metal,
+  so you may need EC for half cells.
+
+- What are the problems?
+
+  - Doesn't dissociate salts at low concentrations.
+  - Have to have 1.4 M or so.
+  - Self-heating is a problem (but additives help).
+
+- Holy smokes! 98% EMV + 2% VC is better than all the others.
+
+  - "EC is the worst, but we all use it!"
+  - EC cause high parasitic heat loss at voltages of 4.6 V and higher.
+
+~~~~~~~~~
+Questions
+~~~~~~~~~
+
+Q: Does this apply to DEC and DMC as well?
+    A: Yes
+
+Q: How does this work at the negative side?
+    A: VC gives more control?
+
+Remark: Pouch cells do a better job of contacting electrode materials.
+
+http://imlb.org/speakers/#Dahn
+
+
