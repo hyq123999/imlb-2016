@@ -8,12 +8,287 @@ IMLB 2016, Tuesday
 .. |H2| replace:: H\ :sub:`2`
 .. |O2| replace:: O\ :sub:`2`
 .. |CO2| replace:: CO\ :sub:`2`
+.. |LiO2| replace:: LiO\ :sub:`2`
 .. |Li2O| replace:: Li\ :sub:`2`\ O
+.. |Li2O2| replace:: Li\ :sub:`2`\ O\ :sub:`2`
 .. |Li+| replace:: Li\ :sup:`+`
 .. |garnet| replace:: Li\ :sub:`7`\ P\ :sub:`3`\ S\ :sub:`11`
 .. |LiPF6| replace:: LiPF\ :sub:`6`\ 
+.. |e-| replace:: e\ :sup:`-`\ 
+.. |NaO2| replace:: NaO\ :sub:`2`
+.. |Na2O2| replace:: Na\ :sub:`2`\ O\ :sub:`2`
+.. |LiMO2| replace:: LiMO\ :sub:`2`
+.. |Li2MO3| replace:: Li\ :sub:`2`\ MO\ :sub:`3`
+.. |Li3MO4| replace:: Li\ :sub:`3`\ MO\ :sub:`4`
 
 https://ecs.confex.com/ecs/imlb2016/webprogram/Session15448.html
+
+-------------------------------------
+Peter Bruce, University of Oxford, UK
+-------------------------------------
+
+- Li metal / LiPF6 in tetraglycine / carbon
+
+- large polarization inefficiency
+
+- charge: 2 |Li+| + |O2| + 2 |e-| → |Li2O2|
+
+- discharge: |Li2O2| → 2 |Li+| + |O2| + 2 |e-|
+
+- surface route: |Li2O2| film format, low rate, early cell death
+
+- solution route: large particles of |Li2O2|, high rate, high retention
+
+- |Li2O2| is an insulating, insoluble solid,
+  so preventing it from suffocating the porous cathode is critical
+
+- Use DBBQ as a redox mediator for discharge
+
+- Use TEMPO as a redox mediator for charge
+
+- Advantage of sodium: less polarization
+
+  - What is formed? |NaO2| (superoxide) or |Na2O2| (peroxide)?
+  - Smaller particles favor |NaO2| formation.
+  - Still many problems to solve for chemistries.
+
+http://imlb.org/speakers/#Bruce
+
+-----------------------------------------------
+Larry Curtiss, Argonne National Laboratory, USA
+-----------------------------------------------
+
+- Problem: Composition / morphology of discharge product is difficult to determine.
+
+  - |LiO2|? (superoxide, unstable at room temp.)
+  - |Li2O2|? (peroxide, more stable at room temp.)
+  - |Li2O|?
+
+- But mixtures of |LiO2| and |Li2O2| can exist in a metastable state.
+
+- Disproportionation: 2 |LiO2| → |Li2O2| + |O2|
+
+- Evidence for |LiO2|: Ramen, XRD, DEMS, EPR, titration
+
+- Fails after 40-60 cycles due to corrosion of Li anode,
+  which is caused by |O2| cross-over.
+
+- |LiO2| is a half-metal, and the electrolyte helps suppess disproportionation.
+
+http://imlb.org/speakers/#Curtiss
+
+------------------------
+Yang Shao-Horn, MIT, USA
+------------------------
+
+- More is known about SEI on graphite (negative) electrode.
+
+  - FTIR, XPS, etc.
+
+- Apply knowledge of |LiO2|/|Li2O2| compounds from metal-air
+
+  - disproportionation electrode transfer
+
+- use carbon-free electrodes
+  because carbon could mask the intrinsic properties of the active materials.
+
+  - Also remove PVDF.
+
+- Carbonate species are removed upon charging (4.2 V).
+
+- Formation of fluoride species (4.1 V and up).
+
+~~~~~~~~~
+Questions
+~~~~~~~~~
+
+- Comment: Don't normalize XPS, use absolute differences.
+
+http://imlb.org/speakers/#Horn
+
+---------------------------------
+Bryan McCloskey, UC Berkeley, USA
+---------------------------------
+
+- Capacity limitations and ion solution in non-aqueous Li-ion batteries.
+
+- Problems with |LiO2|:
+
+  - increasing current decreases discharge plateau voltage
+  - electrolyte stability issues
+  - |Li2O2| always coats cathode in anhydrous DME (TFSI electrolyte),
+    even at low current rates.
+
+- Test cathode/anode separately.
+
+- Do EIS while cell is running.
+
+- Ideas to increase capacity:
+
+  - Modify electrolyte composition
+  - Intentionally add water (compromises stability)
+  - Let it go to suddent death
+
+- Main challenges for cathodes in Li-air:
+
+  - Electrolyte stability
+  - Cathode stability
+  - Electron transport
+
+- Ethers are the most stable, but certainly not the only option.
+
+http://imlb.org/speakers/#McCloskey
+
+------------------------
+Peter Lamp, BMW, Germany
+------------------------
+
+- For industry, you must use high loading.
+
+- New materials are promising, but no winner as of yet.
+
+~~~~~~~~~
+Questions
+~~~~~~~~~
+
+Q: Recycling?
+    A. Yes, that matters.
+
+Q: Why not use layered oxides?
+    A. Voltage fade.
+
+http://imlb.org/speakers/#Lamp
+
+----------------------------------
+Y. Shirley Meng, UC San Diego, USA
+----------------------------------
+
+Making the Invisible Visible
+
+- Don't be blinded by research dollars and impact factors.
+
+- Samsung, LG Chem, Tesla: employers for battery graduate students.
+
+- Batteries operate far from equilibrium.
+
+- Dynamic phenomena are the key to understanding.
+
+- Techniques:
+
+  - Time-resolved XRD
+  - In situ spectroscopy
+  - In situ PDF
+  - In situ NMR
+  - In situ TEM (but not operando TEM)
+
+    - maximal resolution < 1 nm
+    - captures surface phases that XRD misses
+    - limitations:
+
+      - sample statistics (small surface area)
+      - electron beam damage
+      - difficult to look at single dislocations
+        because those are single Å in size.
+
+  - Beyond SEM
+
+    - EELS (STM)
+    - HAADF
+    - LAADR
+    - ABF
+    - FIB (focused-ion beam): requires a patient student
+    - LIPON: interface-limited at high temperature
+
+ - Coherent X-ray diffraction:
+
+   - speckles from X-ray beam
+   - reconstruct particle from phase speckles (use software as a lens)
+   - defects are nucleation sites from new phases
+
+- Invisible things
+
+  - dopants (599)
+  - coatings
+  - oxygen activity (570)
+
+http://imlb.org/speakers/#Meng
+
+~~~~~~~~~
+Questions
+~~~~~~~~~
+
+Q: What about amorphous electrode materials like silicon?
+    A: TEM and TXM damage silicon a lot,
+    but coherent X-ray scattering works well on amorphous materials.
+
+-----------------------------------------------
+Marie-Liesse Doublet, Univ. Montpellier, France
+-----------------------------------------------
+
+Can we increase voltage and capacity simultaneously?
+
+- Nernst equation: :math:`-F V = \Delta_i G = \sum_i u_i v_i = \Delta E_{\theta_{electronic}} + \Delta E_{\theta_{ionic}}`
+
+  - Sum of electronic potential (chemical potential)
+    and ionic (electrostatic) potential.
+
+- Madelung potential: metal + lithium
+
+- Goodenough: Inductive effect (1997)
+
+- Another way to decompose the potential: short-range + long-range
+
+- Capacity and potential are detrimental to each other,
+  and trying to improve both results in structural instability.
+
+- How to increase capacity:
+
+  - multiple-electron reactions (e.g. Mg-ion)
+  - redox bonds/ligands
+
+    - risk of cationic migration and oxygen release (|O2| bubbles)
+    - :math:`\textrm{LiMO_2 \rightarrow Li [Li_x M_{1-x}] O_2 \rightarrow Li_2 MO_3 \rightarrow Li_3 MO_4}`
+    - LiMO₂ → Li [Liₓ M₁₋ₓ] O₂  → Li₂ MO₃ → Li₃MO₄
+    - |LiMO2| → Li [Li\ :sub:`x`\ M\ :sub:`1-x`] |O2|  → |Li2MO3| → |Li3MO4|
+
+.. This isn't supported by Github's RST renderer:
+.. :math:`\textrm{LiMO_2 \rightarrow Li [Li_x M_{1-x}] O_2 \rightarrow Li_2 MO_3 \rightarrow Li_3 MO_4}`
+.. This uses unicode, but only works for letters that have unicode subscripts.
+.. LiMO₂ → Li [Liₓ M₁₋ₓ] O₂  → Li₂ MO₃ → Li₃MO₄
+
+    - competition between:
+
+      - formation of O-O short bonds between layers
+      - cationic migration
+
+    - conversion
+
+      - reductive coupling mechanism
+      - covalence does not trigger anionic redox,
+        but it does help *reversible* anionic redox.
+
+
+- References:
+
+  - Doublet et al., Chem Mater 2002, 2004
+
+    - https://dx.doi.org/10.1021/cm020047e
+
+  - Sathiya 2013, 2015
+
+    - https://dx.doi.org/10.1021/cm400193m
+    - https://dx.doi.org/10.1038/nmat3699
+    - https://dx.doi.org/10.1038/nmat4137
+
+~~~~~~~~~
+Questions
+~~~~~~~~~
+
+Q. What about the Mn/Nb?
+    A. It does not last many cycles.
+
+Q. What about electron-spin resonance vs. electron coupline (e.g. Tarascon)?
+    A. [Not recorded.]
 
 -----------------------------------------------------------------------------
 
