@@ -389,7 +389,7 @@ Dominique Guyomard, CNRS-IMN, France
   limited available Li,
   irreversible parasitic reactions consume Li
 
-- 19F NMR, XPS F1 at lithiated state, XPC C 1s at lithiated state
+- 19F [?] NMR, XPS F1 at lithiated state, XPC C 1s [?] at lithiated state
 
 - conditions
 
