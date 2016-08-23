@@ -247,8 +247,6 @@ Can we increase voltage and capacity simultaneously?
   - redox bonds/ligands
 
     - risk of cationic migration and oxygen release (|O2| bubbles)
-    - :math:`\textrm{LiMO_2 \rightarrow Li [Li_x M_{1-x}] O_2 \rightarrow Li_2 MO_3 \rightarrow Li_3 MO_4}`
-    - LiMO₂ → Li [Liₓ M₁₋ₓ] O₂  → Li₂ MO₃ → Li₃MO₄
     - |LiMO2| → Li [Li\ :sub:`x`\ M\ :sub:`1-x`] |O2|  → |Li2MO3| → |Li3MO4|
 
 .. This isn't supported by Github's RST renderer:
