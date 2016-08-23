@@ -243,7 +243,7 @@ Can we increase voltage and capacity simultaneously?
 
 - How to increase capacity:
 
-  - multiple-electron reactions (e.g. Mg-ion)
+  - multiple-electron reactions
   - redox bonds/ligands
 
     - risk of cationic migration and oxygen release (|O2| bubbles)
