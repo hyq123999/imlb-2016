@@ -62,6 +62,8 @@ Overview of Metal Air Batteries
 
 http://imlb.org/speakers/#Bruce
 
+https://ecs.confex.com/ecs/imlb2016/webprogram/Paper74665.html
+
 https://dx.doi.org/10.1038/nmat4629
 
 -----------------------------------------------
@@ -90,6 +92,8 @@ The Role of Lithium Superoxide in |LiO2| Batteries
 - |LiO2| is a half-metal, and the electrolyte helps suppress disproportionation.
 
 http://imlb.org/speakers/#Curtiss
+
+https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64762.html
 
 https://dx.doi.org/10.1002/cplu.201402053
 
@@ -128,6 +132,8 @@ Questions
 
 http://imlb.org/speakers/#Horn
 
+https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64795.html
+
 ---------------------------------
 Bryan McCloskey, UC Berkeley, USA
 ---------------------------------
@@ -165,6 +171,8 @@ Ion Solvation Effects in the Nonaqueous |LiO2| Electrochemistry
 
 http://imlb.org/speakers/#McCloskey
 
+https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64764.html
+
 ------------------------
 Peter Lamp, BMW, Germany
 ------------------------
@@ -188,6 +196,8 @@ Q: Why not use layered oxides?
     A. Voltage fade.
 
 http://imlb.org/speakers/#Lamp
+
+https://ecs.confex.com/ecs/imlb2016/webprogram/Paper70560.html
 
 ----------------------------------
 Y. Shirley Meng, UC San Diego, USA
@@ -243,8 +253,6 @@ Making the Invisible Visible: Advanced Diagnosis Methods for Lithium Ion Recharg
   - coatings
   - oxygen activity (570)
 
-http://imlb.org/speakers/#Meng
-
 ~~~~~~~~~
 Questions
 ~~~~~~~~~
@@ -252,6 +260,10 @@ Questions
 Q: What about amorphous electrode materials like silicon?
     A: TEM and TXM damage silicon a lot,
     but coherent X-ray scattering works well on amorphous materials.
+
+http://imlb.org/speakers/#Meng
+
+https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64783.html
 
 -----------------------------------------------
 Marie-Liesse Doublet, Univ. Montpellier, France
@@ -324,6 +336,10 @@ Q. What about the Mn/Nb?
 Q. What about electron-spin resonance vs. electron coupling (e.g. Tarascon)?
     A. [Not recorded.]
 
+https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64780.html
+
+http://imlb.org/speakers/#Doublet
+
 --------------------------------------------------------
 Kisuk Kang, Seoul National Laboratory, Republic of Korea
 --------------------------------------------------------
@@ -357,6 +373,8 @@ Simple Metal Oxide as a New Cathode for Lithium Ion Batteries
 - uses high-energy ball-milling
 
 http://imlb.org/speakers/#Kang
+
+https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64768.html
 
 -----------------------------------------------------------------------------
 
