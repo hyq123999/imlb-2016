@@ -21,6 +21,10 @@ https://ecs.confex.com/ecs/imlb2016/webprogram/Session15446.html
 Jean-Marie Tarascon, Collège de France
 --------------------------------------
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Batteries: Today's Advances and Future Challenges
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 - periodic table
 
   - solid state chemistry
@@ -35,9 +39,15 @@ Jean-Marie Tarascon, Collège de France
 
 http://imlb.org/speakers/#Tarascon
 
+https://ecs.confex.com/ecs/imlb2016/webprogram/Paper75021.html
+
 ---------------------
 Dave Howell, U.S. DOE
 ---------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+US DOE Electric Vehicle Battery R&D Progress and Plans
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - electric vehicles, hybrid vehicles
 
@@ -59,10 +69,15 @@ Dave Howell, U.S. DOE
 
 http://imlb.org/speakers/#Howell
 
+https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64878.html
+
 --------------------------------------
 Martin Winter, U. of Muenster, Germany
 --------------------------------------
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Electrolyte Additives - How do They Work and Why are They Efficient?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - |LiPF6|: stable with aluminum, but promotes cathode dissolution
 
@@ -80,9 +95,15 @@ Martin Winter, U. of Muenster, Germany
 
 http://imlb.org/speakers/#Winter
 
+https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64802.html
+
 --------------------------------------------
 Il-Seok (Stephen) Kim, Samsung SDI, S. Korea
 --------------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Materials for High Energy Lithuim Ion Batteries
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - SAIT → R&D Center → SDI R&D team
 
@@ -98,11 +119,15 @@ Il-Seok (Stephen) Kim, Samsung SDI, S. Korea
 
 http://imlb.org/speakers/#Kims
 
+https://ecs.confex.com/ecs/imlb2016/webprogram/Paper66014.html
+
 -----------------------------------
 Wonhee Jeong, LG Chemical, S. Korea
 -----------------------------------
 
-- low-voltage hybrids
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lithium-Ion Battery Technology for Low-Voltage Hybrids
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - high power can be more important than energy density
 
@@ -129,11 +154,15 @@ Wonhee Jeong, LG Chemical, S. Korea
 
 http://imlb.org/speakers/#Jeong
 
+https://ecs.confex.com/ecs/imlb2016/webprogram/Paper65587.html
+
 -----------------------------
 Ted J. Miller, Ford Motor Co.
 -----------------------------
 
-- Safety & modeling
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Battery Safety Performance and Modeling
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - DOE, US advanced Battery Consortium
 
@@ -147,11 +176,15 @@ Ted J. Miller, Ford Motor Co.
 
 http://imlb.org/speakers/#Miller
 
+https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64402.html
+
 ----------------------
 Michael Thackeray, ANL
 ----------------------
 
-- Structural design of lithium metal oxide cathodes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Strategies and Advances in the Structural Design of Lithium Metal Oxide Electrodes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - capacity of 18650 has increased linearly with time
   mostly because of engineering improvements, not chemistry
@@ -190,6 +223,10 @@ https://ecs.confex.com/ecs/imlb2016/webprogram/Session15447.html
 Hubert A. Gasteiger, U. of München, Germany
 -------------------------------------------
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Fundamental Aspects of Lithium Ion Battery Materials Degradation Mechanisms
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 - on-line electrochemical mass spectrometry
 
 - cross-talk between anode & cathode
@@ -220,6 +257,8 @@ Hubert A. Gasteiger, U. of München, Germany
 
 http://imlb.org/speakers/#Gasteiger
 
+https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64817.html
+
 -----------------------------------------------------------------------------
 
 https://ecs.confex.com/ecs/imlb2016/webprogram/Session15447.html
@@ -228,7 +267,9 @@ https://ecs.confex.com/ecs/imlb2016/webprogram/Session15447.html
 Petr Novák, Paul Scherrer Institute, Switzerland
 ------------------------------------------------
 
-- Reality check
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A Reality Check on Battery Materials Development
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Cost of lithium is not the major problem
 
@@ -292,9 +333,15 @@ the only units they need are US dollars and Euros.
 
 http://imlb.org/speakers/#Novak
 
+https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64439.html
+
 -----------------------------------------
 Chrisophe Pillot, Avicenne Energy, France
 -----------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Market Trend of Batteries in Consumer, Automotive, and Grid
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - industry focuses on electric vehicles sold per year
 
@@ -307,6 +354,8 @@ Chrisophe Pillot, Avicenne Energy, France
 - LFP, LMO, NCA, NMC, LCO
 
 http://imlb.org/speakers/#Pillot
+
+https://ecs.confex.com/ecs/imlb2016/webprogram/Paper66660.html
 
 --------------------------------------------
 Jürgen Janek, University of Giessen, Germany
@@ -356,9 +405,15 @@ Solid electrolytes: an attempt at an impartial view.
 
 http://imlb.org/speakers/#Janek
 
+https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64872.html
+
 -------------------------------------------
 Yoshiharu Uchimoto, Kyoto University, Japan
 -------------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Operando Analyses of Reactions using Synchrotron Radiation and the Design of High Rate Capability Cathode
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - ionic resistance
 
@@ -379,6 +434,12 @@ https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64776.html
 ------------------------------------
 Dominique Guyomard, CNRS-IMN, France
 ------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Si Anode Diagnostic and Failure Mechanism in Full Li-Ion Cells Using NMR, STEM-Eels, XPS and FIB-TOF-SIMS Advanced Characterization Tools
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- presentation will be posted online
 
 - very few papers do full cells of Si anodes
 
@@ -446,30 +507,54 @@ https://ecs.confex.com/ecs/imlb2016/webprogram/Paper76657.html
 Minuro Inaba, Doshisha University, Japan
 ----------------------------------------
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Highly Concentrated Electrolyte for 5 V Systems 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 [ Not recorded ]
 
 http://imlb.org/speakers/#Inaba
+
+https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64798.html
 
 -----------------------
 Hong Li, IOP/CAS, China
 -----------------------
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Interfacial Behaviors of Metal Lithium Anode in Solid Lithium Batteries
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 - metal anodes have a bad safety record
 
 http://imlb.org/speakers/#Li
+
+https://ecs.confex.com/ecs/imlb2016/webprogram/Paper74704.html
 
 -------------------------------------------------------
 Masayoshi Watanabe, Yokohama National University, Japan
 -------------------------------------------------------
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Glyme-Li Salt Solvate Ionic Liquids for Advanced Lithium Batteries
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 [ Not recorded ]
 
 http://imlb.org/speakers/#Watanabe
+
+https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64814.html
 
 -------------------------------------------
 Chunsheng Wang, University of Maryland, USA
 -------------------------------------------
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"Water-in-Salt" Electrolyte Enabled High Voltage Aqueous Li-ion Chemistries
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 [ Not recorded ]
 
 http://imlb.org/speakers/#Wang
+
+https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64400.html
