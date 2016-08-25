@@ -551,7 +551,7 @@ On the Road Towards Ca-Based Batteries
   - Seshadri 2013 [ https://dx.doi.org/10.1002/aenm.201300160 ? ]
   - Sadoway 2014 [ ? ]
   - Ingram 2015 [ https://dx.doi.org/10.1149/2.0811508jes or https://dx.doi.org/10.1021/acs.chemmater.5b04027 ? ]
-  - Alcántara 2016 [ http://dx.doi.org/10.1016/j.elecom.2016.03.016 ? ]
+  - Alcántara 2016 [ https://dx.doi.org/10.1016/j.elecom.2016.03.016 ? ]
 
 https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64238.html
 
