@@ -10,10 +10,11 @@ IMLB 2016, Friday
 .. |Li2O| replace:: Li\ :sub:`2`\ O
 .. |Li2O2| replace:: Li\ :sub:`2`\ O\ :sub:`2`
 .. |O2| replace:: O\ :sub:`2`
+.. |CO2| replace:: CO\ :sub:`2`
 
 .. contents::
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Session15454.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Session15454.html
 
 -----------------------------------------------------------
 Yet-Ming Chiang, Massachusetts Institute of Technology, USA
@@ -118,9 +119,9 @@ Q: Electric vehicles or stationary?
 Q: Heat dissipation?
     A: Good question. Not so bad for stationary applications, but needs to be addressed.
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper77847.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper77847.html
 
-http://imlb.org/speakers/#Chiang
+- http://imlb.org/speakers/#Chiang
 
 ----------------------------
 Norio Takami, Toshiba, Japan
@@ -188,9 +189,9 @@ Q: What a 2C rate? Can't LTO go faster?
 Q: Prevent electrolyte from migrating through gel polymer?
     A: I am not allowed to answer that.
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64670.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64670.html
 
-http://imlb.org/speakers/#Takami
+- http://imlb.org/speakers/#Takami
  
 ------------------------------------------------------------------
 Bernard Lestriez, Institut des Matériaux Jean Rouxel (IMN), France
@@ -199,7 +200,7 @@ Bernard Lestriez, Institut des Matériaux Jean Rouxel (IMN), France
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Multi-Scale Characterization of Electronic and Ionic Limitations to Power Performance of Composite Electrodes Toward Ultra-High Surface Capacities (Cancelled)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-http://imlb.org/speakers/#Lestriez
+- http://imlb.org/speakers/#Lestriez
 
 [ Canceled ]
 
@@ -297,7 +298,7 @@ Q: Problems with pouch cells?
 Q: How does it help LCO?
     A: It's a lithium reservoir that prevents overcharge if lithium is not available.
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper76586.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper76586.html
 
 -----------------------------------------------------------------------
 Yongsheng Hu, Institute of Physics / Chinese Academy of Sciences, China
@@ -363,9 +364,9 @@ Q: What is the source of the lignin? Paper industry?
 Q: In crush test, why is voltage so high?
     A: We do not understand it yet.
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64784.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64784.html
 
-http://imlb.org/speakers/#Hu
+- http://imlb.org/speakers/#Hu
 
 -------------------------------------
 Hajime Arai, Kyoto University, Japan 
@@ -374,8 +375,76 @@ Hajime Arai, Kyoto University, Japan
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Revisiting Zinc Air Batteries: Solutions for Longer Lifetime
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-http://imlb.org/speakers/#Arai
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper65143.html
+
+- Good:
+
+  - Zinc is cheap
+
+  - Aqueous electrolyte is safer
+
+  - High theoretical energy density
+
+  - Useful for primary cells, e.g. hearing aids
+
+  - High voltage for aqueous systems
+
+- Bad:
+
+  - low reversibility
+
+  - high overpotential
+
+  - oxygen evolution
+
+  - short lifetime
+
+  - vulnerable to |CO2| and humidity (because of alkaline electrolyte)
+
+  - dendrite formation
+
+    - S. J. Banik et al. [ https://dx.doi.org/10.1149/2.040311jes or https://dx.doi.org/10.1016/j.electacta.2014.12.100 ? 
+
+    - A. Nakata et al. [ https://dx.doi.org/10.1016/j.electacta.2015.03.076 ? ]
+
+- Operando XRD
+
+  - ZnO disappears on reduction
+
+- Operando x-ray fluorescence
+
+  - zinc dendrite dissolution
+
+  - zinc is super-saturated
+
+  - also did XAFS/XANES
+
+  - try to form more ZnO (fixation)
+
+- add propylene glycol to KOH electrolyte
+
+  - decreases water activity and ZnO solubility
+
+  - does not form dendrites when depositing Zn
+
+  - bulk effect
+
+- need a separator for Zn-air
+
+- conclusion
+
+  - energy density is greater than lithium-ion battery,
+    but not reversibility
+
+~~~~~~~~~
+Questions
+~~~~~~~~~
+
+Q: Can it be applied to Li-air?
+    A: This is for zinc, but maybe.
+
+- http://imlb.org/speakers/#Arai
+
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper65143.html
 
 ----------------------------------
 Huanyu Mao, YouLion Battery, China
@@ -384,8 +453,58 @@ Huanyu Mao, YouLion Battery, China
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Fail-Safe System for High Energy Density Power Li-Ion Batteries
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper67627.html
-http://imlb.org/speakers/#Mao
+
+- mainly cylindrical cells built into modules
+
+- testing
+
+  - short circuit (internal)
+
+  - heat propagation
+
+- safety
+
+  - internal short circuit is the only safety hazard
+    that can't be detected and shut off by cutting off the circuit.
+
+  - fire occurs even in nitrogen
+
+  - solution: fail-safe that prevents propagation through the pack
+
+- solutions
+
+  - smoke chimney
+
+    - vents hot gases
+
+  - mineral oil
+
+    - messy, but reduces heat propagation
+
+  - keep the cells spaced far apart
+
+~~~~~~~~~
+Questions
+~~~~~~~~~
+
+Q: Rotary pump for chimney instead of strictly passive?
+    A: Yes.
+
+Q: Did multiple chimneys turn black?
+    A: Yes, one cell shorted, but all the chimneys help vent.
+
+Q: What about radiative heat transfer?
+    A: Yes, Tesla did it, but it hindered heat dissipation.
+
+Q: How is an internal short triggered?
+    A: Not at liberty to divulge the details. It is not mechanical.
+
+Q: Is the internal short triggered by remote control?
+    A: Yes.
+
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper67627.html
+
+- http://imlb.org/speakers/#Mao
 
 ------------------------------
 Maarten Quix, Umicore, Belgium
@@ -394,8 +513,78 @@ Maarten Quix, Umicore, Belgium
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Closing the Battery Loop for Rechargeable Batteries
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-http://imlb.org/speakers/#Quix
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper66659.html
+
+- People who inspire me:
+
+  - John Goodenough, inventor of the lithium-ion battery
+
+  - Polkano: [?] school of mines, extracting elements
+
+- What happens at end of use for batteries?
+
+  - Recycling?
+
+  - Hang onto it?
+
+  - Sell it?
+
+  - Lose it?
+
+- More broadly, what happens when technologies become obsolete?
+
+  - Example: CRT monitors
+
+    - Re-use was standard for a while,
+      but then the market disappeared.
+
+    - This took decades, though.
+
+  - Example: feature phones / smart phones
+    
+    - These become obsolete after only a few years.
+
+- Batteries for electric vehicles typically have a decade warranty.
+
+- Umicore
+
+  - makes NMC and LCO
+
+  - also recycles Li-ion batteries
+
+    - high-temperature furnace
+
+    - cells are processed intact; workers do not disassemble the cells
+
+    - flue dust
+
+    - recycling efficiency is greater than 50%
+
+- Why? Because it will help the next generation,
+  like my kids.
+
+~~~~~~~~~
+Questions
+~~~~~~~~~
+
+Q: For electric vehicles and stationary, how can shredding work?
+
+A: You can shred, but there is always risk of short circuit and HF formation.
+Scaling shredding is the problem.
+
+Q: More details of recycling would be nice.
+What do you do with the electrolyte?
+
+A: Electrolyte burns hot in a smelting furnace to reduce the metals,
+and also to make steam to power the plant.
+
+Q: How much energy does it take to do this?
+
+A: Once you get the process started, the energy input is minimal.
+I don't know cost/kg, because another company does that.
+
+- http://imlb.org/speakers/#Quix
+
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper66659.html
 
 -------------------------------------------------------
 Amo Kwade, Technische Universität Braunschweig, Germany
@@ -404,5 +593,60 @@ Amo Kwade, Technische Universität Braunschweig, Germany
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Ecologically Friendly Recycling of Lithium-Ion Batteries - the Lithorec Process
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64751.html
-http://imlb.org/speakers/#Kwade
+
+- Motivation
+
+  - closed life cycle for lithium-ion battery
+
+  - lithium especially needs to be recycles
+
+  - possible 2nd lifetime application
+
+- Challenges
+
+  - lithium is only 1% [ by mass? ]
+
+  - HF or CO production (chemical hazards)
+
+  - crushing under normal atmosphere is a bad idea
+
+  - deactivation of cells:
+
+    - freeze, short-circuit, discharge
+
+  - mechanical
+
+  - pyrometallurgy: get Ni and Co metal out
+
+  - hydrometallurgy: get Li out
+
+- crushing, sieving, etc.
+
+  - Cu foil, Al foil, plastic, separator, black mass (carbon)
+
+- hydrometallurgical Li extraction
+
+  - extracts 95% of Li from NMC
+
+  - profitability: requires ≈ 4000 tons / year to break even
+
+~~~~~~~~~
+Questions
+~~~~~~~~~
+
+Q: Why can you only get 80% of lithium in LFP
+but you can get 95% of lithium from NMC?
+
+A: Iron is problematic.
+
+Q: Second life application is hard. How does the warranty work?
+
+A: People are working on it, but it is hard.
+
+Q: Aggregate yield - 95% - just for lithium?
+
+A: 90%
+
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64751.html
+
+- http://imlb.org/speakers/#Kwade
