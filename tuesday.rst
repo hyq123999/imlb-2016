@@ -26,7 +26,7 @@ IMLB 2016, Tuesday
 
 .. contents::
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Session15448.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Session15448.html
 
 -------------------------------------
 Peter Bruce, University of Oxford, UK
@@ -61,11 +61,11 @@ Overview of Metal Air Batteries
   - Smaller particles favor |NaO2| formation.
   - Still many problems to solve for chemistries.
 
-http://imlb.org/speakers/#Bruce
+- http://imlb.org/speakers/#Bruce
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper74665.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper74665.html
 
-https://dx.doi.org/10.1038/nmat4629
+- https://dx.doi.org/10.1038/nmat4629
 
 -----------------------------------------------
 Larry Curtiss, Argonne National Laboratory, USA
@@ -92,13 +92,13 @@ The Role of Lithium Superoxide in |LiO2| Batteries
 
 - |LiO2| is a half-metal, and the electrolyte helps suppress disproportionation.
 
-http://imlb.org/speakers/#Curtiss
+- http://imlb.org/speakers/#Curtiss
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64762.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64762.html
 
-https://dx.doi.org/10.1002/cplu.201402053
+- https://dx.doi.org/10.1002/cplu.201402053
 
-https://dx.doi.org/10.3390/en8010529
+- https://dx.doi.org/10.3390/en8010529
 
 ------------------------
 Yang Shao-Horn, MIT, USA
@@ -131,9 +131,9 @@ Questions
 
 - Comment: Don't normalize XPS, use absolute differences.
 
-http://imlb.org/speakers/#Horn
+- http://imlb.org/speakers/#Horn
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64795.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64795.html
 
 ---------------------------------
 Bryan McCloskey, UC Berkeley, USA
@@ -170,9 +170,9 @@ Ion Solvation Effects in the Nonaqueous |LiO2| Electrochemistry
 
 - Ethers are the most stable, but certainly not the only option.
 
-http://imlb.org/speakers/#McCloskey
+- http://imlb.org/speakers/#McCloskey
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64764.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64764.html
 
 ------------------------
 Peter Lamp, BMW, Germany
@@ -196,9 +196,9 @@ Q: Recycling?
 Q: Why not use layered oxides?
     A. Voltage fade.
 
-http://imlb.org/speakers/#Lamp
+- http://imlb.org/speakers/#Lamp
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper70560.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper70560.html
 
 ----------------------------------
 Y. Shirley Meng, UC San Diego, USA
@@ -262,9 +262,9 @@ Q: What about amorphous electrode materials like silicon?
     A: TEM and TXM damage silicon a lot,
     but coherent X-ray scattering works well on amorphous materials.
 
-http://imlb.org/speakers/#Meng
+- http://imlb.org/speakers/#Meng
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64783.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64783.html
 
 -----------------------------------------------
 Marie-Liesse Doublet, Univ. Montpellier, France
@@ -337,9 +337,9 @@ Q. What about the Mn/Nb?
 Q. What about electron-spin resonance vs. electron coupling (e.g. Tarascon)?
     A. [Not recorded.]
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64780.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64780.html
 
-http://imlb.org/speakers/#Doublet
+- http://imlb.org/speakers/#Doublet
 
 --------------------------------------------------------
 Kisuk Kang, Seoul National Laboratory, Republic of Korea
@@ -373,13 +373,13 @@ Simple Metal Oxide as a New Cathode for Lithium Ion Batteries
 
 - uses high-energy ball-milling
 
-http://imlb.org/speakers/#Kang
+- http://imlb.org/speakers/#Kang
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64768.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64768.html
 
 -----------------------------------------------------------------------------
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Session15449.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Session15449.html
 
 ---------------------------------------
 Jeff Dahn, Dalhousie University, Canada
@@ -446,9 +446,9 @@ Q: How does this work at the negative side?
 
 Remark: Pouch cells do a better job of contacting electrode materials.
 
-http://imlb.org/speakers/#Dahn
+- http://imlb.org/speakers/#Dahn
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper74912.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper74912.html
 
 ----------------------------------------
 Atsuo Yamada, University of Tokyo, Japan
@@ -470,11 +470,11 @@ Concentrated Liquid Electrolytes
 
 - hydrate melt (no free water)
 
-https://dx.doi.org/10.1038/ncomms12032
+- https://dx.doi.org/10.1038/ncomms12032
 
-http://imlb.org/speakers/#Yamada
+- http://imlb.org/speakers/#Yamada
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper76278.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper76278.html
 
 ------------------------------------------------------------------
 Ji-Guang (Jason) Zhang, Pacific Northwest National Laboratory, USA
@@ -489,11 +489,11 @@ Metal anodes for rechargeable metal batteries
   - Dendrite growth
   - Low coulombic efficiency (a more fundamental problem)
 
-https://dx.doi.org/10.1149/2.089405jes
+- https://dx.doi.org/10.1149/2.089405jes
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64794.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64794.html
 
-http://imlb.org/speakers/#Zhang
+- http://imlb.org/speakers/#Zhang
 
 ------------------------------
 Yukinari Kotani, Toyota, Japan
@@ -522,7 +522,7 @@ All-Solid State Battery (ASSB) for automative applications
 
   - Ten times thinner than dry pressing
 
-https://dx.doi.org/10.1038/NMAT3066
+- https://dx.doi.org/10.1038/NMAT3066
 
 ~~~~~~~~~
 Questions
@@ -537,9 +537,9 @@ Q: How does scaling up work?
 Q: Stability range for solid electrolyte?
     A: [ Not recorded. ]
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64871.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64871.html
 
-http://imlb.org/speakers/#Kotani
+- http://imlb.org/speakers/#Kotani
 
 ---------------------------------------
 Xinping Qiu, Tsinghua University, China
@@ -551,7 +551,7 @@ Silicon Foam Anode with Stabilized Interface for Lithium-ion Batteries
 
 [ Canceled due to visa problems. ]
 
-http://imlb.org/speakers/#Qiu
+- http://imlb.org/speakers/#Qiu
 
 ------------------------------------
 Saiful Islam, University of Bath, UK
@@ -598,9 +598,9 @@ Insights into Fast Lithium and Sodium-ion Conduction in Solid Electrolyte and Ca
   - Paraphrasing Marcel Proust: real voyage of discovery consists,
     not in seeking new landscapes, but in having new eyes.
 
-http://imlb.org/speakers/#Islam
+- http://imlb.org/speakers/#Islam
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64753.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64753.html
 
 ----------------------------------------------------------
 Mattéo Bianchini, Institut Laue-Langevin, Grenoble, France
@@ -644,9 +644,9 @@ Q: H phase?
 
 Q: 4.3V?
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64870.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64870.html
 
-http://imlb.org/speakers/#Masquelier
+- http://imlb.org/speakers/#Masquelier
 
 ---------------------------------------
 Shigeto Okada, Kyushu University, Japan
@@ -682,9 +682,9 @@ Possibility of Composite Cathodes with Sacrificial Salts
   - Alluandite
   - O3-type rock salt
 
-http://imlb.org/speakers/#Okada
+- http://imlb.org/speakers/#Okada
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64796.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64796.html
 
 --------------------------------------------------------------
 Xiaoxiong Xu, Ningbo Institute of Materials Engineering, China
@@ -694,8 +694,8 @@ Xiaoxiong Xu, Ningbo Institute of Materials Engineering, China
 Sulfide Solid Electrolytes with High Lithium ion Conductivities and their Applications in All-Solid-State Batteries
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-https://dx.doi.org/10.1016/j.ensm.2016.02.004
+- https://dx.doi.org/10.1016/j.ensm.2016.02.004
 
-http://imlb.org/speakers/#Xu
+- http://imlb.org/speakers/#Xu
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64577.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64577.html

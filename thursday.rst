@@ -16,7 +16,7 @@ IMLB 2016, Thursday
 .. |CO2| replace:: CO\ :sub:`2`
 .. |Li2S| replace:: Li\ :sub:`2`\ S
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Session15452.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Session15452.html
 
 ------------------------------------
 Clare Grey, Cambridge University, UK
@@ -47,9 +47,9 @@ Q: Spatial resolution of NMR?
     A: Faster ions means worse resolution. Pulse field gradients.
     About 10 micron in slow case, 100 micron in fast case.
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper67414.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper67414.html
 
-http://imlb.org/speakers/#Grey
+- http://imlb.org/speakers/#Grey
 
 ---------------------------------------------------------
 Claire Villevieille, Paul Scherrer Institute, Switzerland
@@ -151,9 +151,9 @@ Questions
 Comment: Intermediates in solid solution of LiC\ :sub:`6`
     Reply: Thanks, it is difficult to understand.
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64666.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64666.html
 
-http://imlb.org/speakers/#Villevieille
+- http://imlb.org/speakers/#Villevieille
 
 ----------------------------------------------------
 Jurdi Cabana, University of Illinois at Chicago, USA
@@ -220,9 +220,9 @@ Q: Time resolution?
 Q: Multiple phases?
     A: Reference spectrum and linear combination fitting?
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64665.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64665.html
 
-http://imlb.org/speakers/#Cabana
+- http://imlb.org/speakers/#Cabana
 
 -----------------------------------
 Yong Yang, Xiamen University, China
@@ -301,9 +301,9 @@ Q: Cation reorganization? Did you also do XRD/Rietveld?
     A: Yes, similar trend as magnetic. We have calculated magnetic moment;
     corresponds to changes due to doping.
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64791.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64791.html
 
-http://imlb.org/speakers/#Yang
+- http://imlb.org/speakers/#Yang
 
 
 -------------------------------------------------------------
@@ -409,7 +409,7 @@ The only advantage is a metal anode.
 Q: Coordination preferences?
     A: Coordination mixing/crossover.
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper96196.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper96196.html
 
 -----------------------------------------
 Maksym Kovalenko, ETH Zürich, Switzerland
@@ -419,7 +419,7 @@ Maksym Kovalenko, ETH Zürich, Switzerland
 Nanoscale Anode and Cathode Materials for (Li/Na/Mg/Al)-ion Batteries (Cancelled)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-http://imlb.org/speakers/#Kovalenko
+- http://imlb.org/speakers/#Kovalenko
 
 ---------------------------
 Adam Best, CSIRO, Australia
@@ -540,9 +540,9 @@ Q: Graphite LiMnO, binder stability?
     A: We've started, high surface area carbons,
     but binders ok
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper76160.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper76160.html
 
-http://imlb.org/speakers/#Best
+- http://imlb.org/speakers/#Best
 
 -------------------------------------------------------------------
 Yoshitaka Tateyama, National Institute for Materials Science, Japan
@@ -619,9 +619,9 @@ Q (Daniel Abraham): SEI growth: near shore aggregation is not the only thing goi
 Q: Doesn't SEI detach from graphite?
     A: That is a good idea, but not implemented yet.
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64668.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64668.html
 
-http://imlb.org/speakers/#Tateyama
+- http://imlb.org/speakers/#Tateyama
 
 ------------------------
 John Zhang, Celgard, USA
@@ -682,13 +682,13 @@ Q: Porosity / transport?
 Q: What is optimal thickness?
     A: Thinner compromises safety, but makes a better separator.
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64237.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64237.html
 
-http://imlb.org/speakers/#Zhangj
+- http://imlb.org/speakers/#Zhangj
 
 ------------------------------------------------------------------------------
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Session15453.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Session15453.html
 
 ---------------------
 Yi Cui, Stanford, USA
@@ -772,9 +772,9 @@ Q: Do you use silicon nanowires?
     A: Yes, but then everyone was doing nanowires,
     so we switched to other stuff.
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64801.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64801.html
 
-http://imlb.org/speakers/#Cui
+- http://imlb.org/speakers/#Cui
 
 -------------------------------------------------------------------
 Stefano Passerini, Karlsruhe Institute of Technology (KIT), Germany
@@ -816,9 +816,9 @@ Conversion-Alloying Anode Materials for Lithium-Ion Batteries
 
 - What is is the origin of the surface films?
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64867.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64867.html
 
-http://imlb.org/speakers/#Passerini
+- http://imlb.org/speakers/#Passerini
 
 ---------------------------------------------
 Kristina Edström, Ångström Laboratory, Sweden
@@ -872,9 +872,9 @@ Questions
 Q: Silicon crystallinity?
     A: Hard to be sure.
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper67653.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper67653.html
 
-http://imlb.org/speakers/#Edstrom
+- http://imlb.org/speakers/#Edstrom
 
 -------------------------------------
 Jaephil Cho, UNIST, Republic of Korea
@@ -947,9 +947,9 @@ Questions
 
 - tortuosity of pores
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64597.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64597.html
 
-http://imlb.org/speakers/#Cho
+- http://imlb.org/speakers/#Cho
 
 -------------------------------------------------------------------------------------
 Jang Wook Choi, Korea Advanced Institute of Science and Technology, Republic of Korea
@@ -1020,9 +1020,9 @@ Q: Lithated PAA is not self-healing, carboxylic acid.
 A: Self-healing is bad on ion-dipole interaction,
 for other cases we must check carefully.
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper65313.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper65313.html
 
-http://imlb.org/speakers/#Choi
+- http://imlb.org/speakers/#Choi
 
 -----------------------------------------
 Jorunn Voje, Elkem AS, Technology, Norway
@@ -1126,9 +1126,9 @@ A Cost Efficient Silicon-Carbon based Anode Material for Lithium-Ion Batteries
   - 945: https://ecs.confex.com/ecs/imlb2016/webprogram/Paper75299.html
 
 
-http://imlb.org/speakers/#Voje
+- http://imlb.org/speakers/#Voje
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64759.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64759.html
 
 ----------------------------------------------
 Nae-Lih Wu, National Taiwan University, Taiwan
@@ -1189,9 +1189,9 @@ Q: Polymer cost?
 Q: Does it decrease impedance?
     A: Yes, charge-transfer resistance goes down dramatically.
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64786.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64786.html
 
-http://imlb.org/speakers/#Wu
+- http://imlb.org/speakers/#Wu
 
 -----------------------------------------------------
 Zhangquan Peng, Institute of Applied Chemistry, China
@@ -1230,9 +1230,9 @@ Q: Exchanging with the defect?
 Q: [Not recorded]
     A: Oxygen on top of peroxide
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64873.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64873.html
 
-http://imlb.org/speakers/#Peng
+- http://imlb.org/speakers/#Peng
 
 ---------------------------------------------------------
 Robert Dominko, National Institute of Chemistry, Slovenia
@@ -1289,6 +1289,6 @@ Q: Do you see coloration of electrolyte?
 Q: Does XAS show it is really |Li2S|?
     A: Hard to find a good standard; may not be stoichiometric, but is crystalline.
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64669.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64669.html
 
-http://imlb.org/speakers/#Dominko
+- http://imlb.org/speakers/#Dominko

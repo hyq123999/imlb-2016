@@ -9,7 +9,7 @@ IMLB 2016, Wednesday
 
 .. contents::
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Session15450.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Session15450.html
 
 ------------------------------------------
 Doron Aurbach, Bar Ilan University, Israel
@@ -100,9 +100,9 @@ Questions
 - Q: FEC?
   - A: Yes, it's good. Polymerizes between 4.5 V and 4.8 V.
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper76336.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper76336.html
 
-http://imlb.org/speakers/#Aurbach
+- http://imlb.org/speakers/#Aurbach
 
 
 -------------------------------------------
@@ -162,9 +162,9 @@ Next Generation Battery Technologies based on Reversible Lithium Metal Electrode
      - liquid electrolyte
      - Li-ion cathode
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper65050.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper65050.html
 
-http://imlb.org/speakers/#Visco
+- http://imlb.org/speakers/#Visco
 
 -------------------------------------------------------
 Chisu Kim, Institut de recherche d'Hydro-Québec, Canada
@@ -215,9 +215,9 @@ In Operando Studies for the Strategic Development of High Performance Lithium/Su
   - Li protection
   - robust cathode architecture
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper65063.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper65063.html
 
-http://imlb.org/speakers/#Kim
+- http://imlb.org/speakers/#Kim
 
 ------------------------------------------------------
 Aramugam Manthiram, University of Texas at Austin, USA
@@ -258,9 +258,9 @@ Lithium- and Sodium-Sulfur Cells with High Sulfur Loading
   - conclusion: not ready for prime time,
     but a lot of progress has been made
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64652.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64652.html
 
-http://imlb.org/speakers/#Manthiram
+- http://imlb.org/speakers/#Manthiram
 
 -------------------------------------------------------
 Gerbrand Ceder, University of California, Berkeley, USA
@@ -324,9 +324,9 @@ Q: [Not recorded]
     Some of them passivate well, others do not.
     The kinetic triggers are unclear.
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper77632.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper77632.html
 
-http://imlb.org/speakers/#Ceder
+- http://imlb.org/speakers/#Ceder
 
 
 --------------------------------------------------------
@@ -352,9 +352,9 @@ Understanding the Anomalously High Capacity of Li- and Mn-Rich Cathodes for Li-I
 
   - fitting and bond length variation
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper73219.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper73219.html
 
-http://imlb.org/speakers/#Yoon
+- http://imlb.org/speakers/#Yoon
 
 ------------------------------------------------------------------------------------------
 Hee-Tak Kim, Korea Advanced Institute of Science and Technology (KAIST), Republic of Korea
@@ -368,9 +368,9 @@ Hybrid Ion Conductor: Polysulfide Exclusion for Advanced Lithium Sulfur Batterie
 
 - LiS
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper76087.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper76087.html
 
-http://imlb.org/speakers/#Kim2
+- http://imlb.org/speakers/#Kim2
 
 ----------------------------------------
 Nobuyuki Imanishi, Mie University, Japan
@@ -382,13 +382,13 @@ Development of Materials for Aqueous Lithium Batteries
 
 - Li metal is ideal except for dendrites, etc.
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper66013.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper66013.html
 
-http://imlb.org/speakers/#Imanishi
+- http://imlb.org/speakers/#Imanishi
 
 ------------------------------------------------------------------------------
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Session15451.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Session15451.html
 
 ----------------------------------------
 Linda Nazar, Waterloo University, Canada
@@ -465,9 +465,9 @@ Questions
 Q: What about volumetric capacity?
     A: Carbon is not the way to go...
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper74809.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper74809.html
 
-http://imlb.org/speakers/#Nazar
+- http://imlb.org/speakers/#Nazar
 
 -----------------------------------------
 Toshiyuki Momma, Waseda University, Japan
@@ -481,9 +481,9 @@ Suppression of Polysulfide Transfer by Polypyrrole Modification on Cathode in Li
 
   - Electrical impedance spectroscopy (EIS)
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64760.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64760.html
 
-http://imlb.org/speakers/#Momma
+- http://imlb.org/speakers/#Momma
 
 
 ------------------------------------------------------
@@ -507,9 +507,9 @@ All Solid State Battery with LLZ Solid Electrolyte and Li Metal Anode
   - took twenty tries to get it right
 
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper66082.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper66082.html
 
-http://imlb.org/speakers/#Kanamura
+- http://imlb.org/speakers/#Kanamura
 
 --------------------------------------------------
 Ryoji Kanno, Tokyo Institute of Technology, Japan 
@@ -527,9 +527,9 @@ Developments of Lithium Solid Electrolytes and their Application to All Solid-St
 
 - Ragone plot (power in kW/kg vs capacity in Wh/kg)
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64767.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64767.html
 
-http://imlb.org/speakers/#Kanno
+- http://imlb.org/speakers/#Kanno
 
 ----------------------------------------------------------------------
 M. Rosa Palacín, Instituto de Ciencia de Materials de Barcelona, Spain
@@ -553,9 +553,9 @@ On the Road Towards Ca-Based Batteries
   - Ingram 2015 [ https://dx.doi.org/10.1149/2.0811508jes or https://dx.doi.org/10.1021/acs.chemmater.5b04027 ? ]
   - Alcántara 2016 [ https://dx.doi.org/10.1016/j.elecom.2016.03.016 ? ]
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64238.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64238.html
 
-http://imlb.org/speakers/#Palacin
+- http://imlb.org/speakers/#Palacin
 
 ----------------------------------------------------
 Yang-Kook Sun, Hanyang University, Republic of Korea
@@ -581,9 +581,9 @@ Q: Physics of surface morphology?
 Q: Batch vs. continuous flow synthesis?
     A: It is hard to do flow synthesis.
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper77633.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper77633.html
 
-http://imlb.org/speakers/#Sun
+- http://imlb.org/speakers/#Sun
 
 ---------------------------------------------------
 Shinichi Komaba, Tokyo University of Science, Japan
@@ -632,9 +632,9 @@ Questions
 Comment from Doron Aurbach: must demonstrate cycling stability
 over thousand of cycles, otherwise it cannot rival Li-ion.
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64671.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64671.html
 
-http://imlb.org/speakers/#Komaba
+- http://imlb.org/speakers/#Komaba
 
 --------------------------------------
 Laurence Crogunnec, CNRS ICMCB, France
@@ -666,9 +666,9 @@ Questions
 Q: What electrolyte was used?
     A: EC/DEC with LiPF\ :sub:`6`
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper65145.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper65145.html
 
-http://imlb.org/speakers/#Crogunnec
+- http://imlb.org/speakers/#Crogunnec
 
 -----------------------------------------
 Wenjuan Liu Mattis, Microvast Inc., China
@@ -714,6 +714,6 @@ Q: What is the active material?
 
 Comment by Doron Aurbach: Should show data at a scientific conference.
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper84896.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper84896.html
 
-http://imlb.org/speakers/#Mattis
+- http://imlb.org/speakers/#Mattis

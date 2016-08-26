@@ -15,7 +15,7 @@ IMLB 2016, Monday
 
 .. contents::
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Session15446.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Session15446.html
 
 --------------------------------------
 Jean-Marie Tarascon, Collège de France
@@ -37,9 +37,9 @@ Batteries: Today's Advances and Future Challenges
 
     - genome of materials
 
-http://imlb.org/speakers/#Tarascon
+- http://imlb.org/speakers/#Tarascon
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper75021.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper75021.html
 
 ---------------------
 Dave Howell, U.S. DOE
@@ -67,9 +67,9 @@ US DOE Electric Vehicle Battery R&D Progress and Plans
 
 - cathode: sulfur, high V layered oxides, Ni-rich
 
-http://imlb.org/speakers/#Howell
+- http://imlb.org/speakers/#Howell
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64878.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64878.html
 
 --------------------------------------
 Martin Winter, U. of Muenster, Germany
@@ -93,9 +93,9 @@ Electrolyte Additives - How do They Work and Why are They Efficient?
 - additives at 1 wt. % are beneficial for high-area anode materials
   but not for low-area anode materials
 
-http://imlb.org/speakers/#Winter
+- http://imlb.org/speakers/#Winter
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64802.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64802.html
 
 --------------------------------------------
 Il-Seok (Stephen) Kim, Samsung SDI, S. Korea
@@ -117,9 +117,9 @@ Materials for High Energy Lithuim Ion Batteries
 
 - lithium-rich was tried, but low packing density, so low volumetric capacity
 
-http://imlb.org/speakers/#Kims
+- http://imlb.org/speakers/#Kims
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper66014.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper66014.html
 
 -----------------------------------
 Wonhee Jeong, LG Chemical, S. Korea
@@ -152,9 +152,9 @@ Lithium-Ion Battery Technology for Low-Voltage Hybrids
 
 - at least 60 Ah for a premium vehicle
 
-http://imlb.org/speakers/#Jeong
+- http://imlb.org/speakers/#Jeong
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper65587.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper65587.html
 
 -----------------------------
 Ted J. Miller, Ford Motor Co.
@@ -174,9 +174,9 @@ Battery Safety Performance and Modeling
 
 - Randles circuit
 
-http://imlb.org/speakers/#Miller
+- http://imlb.org/speakers/#Miller
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64402.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64402.html
 
 ----------------------
 Michael Thackeray, ANL
@@ -215,9 +215,9 @@ Questions
 
 - Is it thermodynamically stable or kinetically trapped?
 
-http://imlb.org/speakers/#Thackeray
+- http://imlb.org/speakers/#Thackeray
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Session15447.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Session15447.html
 
 -------------------------------------------
 Hubert A. Gasteiger, U. of München, Germany
@@ -255,13 +255,13 @@ Fundamental Aspects of Lithium Ion Battery Materials Degradation Mechanisms
 
     - holes in SEI or proton tunneling?
 
-http://imlb.org/speakers/#Gasteiger
+- http://imlb.org/speakers/#Gasteiger
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64817.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64817.html
 
 -----------------------------------------------------------------------------
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Session15447.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Session15447.html
 
 ------------------------------------------------
 Petr Novák, Paul Scherrer Institute, Switzerland
@@ -331,9 +331,9 @@ Questions
 CEO of battery company says
 the only units they need are US dollars and Euros.
 
-http://imlb.org/speakers/#Novak
+- http://imlb.org/speakers/#Novak
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64439.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64439.html
 
 -----------------------------------------
 Chrisophe Pillot, Avicenne Energy, France
@@ -353,9 +353,9 @@ Market Trend of Batteries in Consumer, Automotive, and Grid
 
 - LFP, LMO, NCA, NMC, LCO
 
-http://imlb.org/speakers/#Pillot
+- http://imlb.org/speakers/#Pillot
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper66660.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper66660.html
 
 --------------------------------------------
 Jürgen Janek, University of Giessen, Germany
@@ -403,9 +403,9 @@ Solid electrolytes: an attempt at an impartial view.
 
   - slower kinetics and thermodynamics
 
-http://imlb.org/speakers/#Janek
+- http://imlb.org/speakers/#Janek
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64872.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64872.html
 
 -------------------------------------------
 Yoshiharu Uchimoto, Kyoto University, Japan
@@ -427,9 +427,9 @@ Operando Analyses of Reactions using Synchrotron Radiation and the Design of Hig
 
 - conductivity of electrolyte is best at 1M |LiPF6|
 
-http://imlb.org/speakers/#Utchimoto
+- http://imlb.org/speakers/#Utchimoto
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64776.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64776.html
 
 ------------------------------------
 Dominique Guyomard, CNRS-IMN, France
@@ -499,9 +499,9 @@ Q: electrode damage?
 Q: SEI?
     A: No, NMR shows Li is not lost in SEI.
 
-http://imlb.org/speakers/#Guyomard
+- http://imlb.org/speakers/#Guyomard
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper76657.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper76657.html
 
 ----------------------------------------
 Minuro Inaba, Doshisha University, Japan
@@ -513,9 +513,9 @@ Highly Concentrated Electrolyte for 5 V Systems
 
 [ Not recorded ]
 
-http://imlb.org/speakers/#Inaba
+- http://imlb.org/speakers/#Inaba
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64798.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64798.html
 
 -----------------------
 Hong Li, IOP/CAS, China
@@ -527,9 +527,9 @@ Interfacial Behaviors of Metal Lithium Anode in Solid Lithium Batteries
 
 - metal anodes have a bad safety record
 
-http://imlb.org/speakers/#Li
+- http://imlb.org/speakers/#Li
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper74704.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper74704.html
 
 -------------------------------------------------------
 Masayoshi Watanabe, Yokohama National University, Japan
@@ -541,9 +541,9 @@ Glyme-Li Salt Solvate Ionic Liquids for Advanced Lithium Batteries
 
 [ Not recorded ]
 
-http://imlb.org/speakers/#Watanabe
+- http://imlb.org/speakers/#Watanabe
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64814.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64814.html
 
 -------------------------------------------
 Chunsheng Wang, University of Maryland, USA
@@ -555,6 +555,6 @@ Chunsheng Wang, University of Maryland, USA
 
 [ Not recorded ]
 
-http://imlb.org/speakers/#Wang
+- http://imlb.org/speakers/#Wang
 
-https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64400.html
+- https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64400.html
