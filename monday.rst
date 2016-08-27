@@ -293,8 +293,8 @@ A Reality Check on Battery Materials Development
 
   - 2Li + O ⇄ |Li2O|
   - standard potential in 1M acid:
-    Li ≈ -3.0 V vs. SHE,
-    |O2| ≈ 1.2 V vs. SHE
+    Li about -3.0 V vs. SHE,
+    |O2| about 1.2 V vs. SHE
   - this yields 4V cell, 1800 mAh/g, 7200 Wh/kg
 
   - losses: heat and side reactions

@@ -186,7 +186,7 @@ Visualization of Electrochemical Reactions in Battery Materials with X-ray Micro
     - don't use lenses, reconstruct image with software
     - full diffraction, not Bragg diffraction
     - limited by x-ray wavelength, not lens resolving power
-    - ≈3 nm resolution
+    - about 3 nm resolution
 
   - virtually no fractures on nanoplates
 
@@ -387,9 +387,9 @@ Designing and Realizing Higher Energy Density Multivalent Cathodes
 - |Zn2+| in layered has about 500 meV,
   similar to |Li+| in spinel,
   so |Zn2+| should be able to pass through the structure easily:
-  ≈170 mAh/g at 0.& V vs Zn over 1000 cycles.
+  about 170 mAh/g at 0.& V vs Zn over 1000 cycles.
 
-  - capacity returns to ≈130 mAh/g at high rates
+  - capacity returns to about 130 mAh/g at high rates
 
 - Mg doesn't like tetrahedral 4-fold coordination,
   looks for activated octahedral,
@@ -586,7 +586,7 @@ Ab-Initio MD Simulations of Redox Reactions of Liquid Electrolytes and SEI Forma
 
 - New SEI formation mechanism: "near-shore aggregation"
 
-  - SEI ≈ 50nm
+  - SEI about 50nm thick
 
   - Peled model (1997) https://dx.doi.org/10.1149/1.1837858
 
@@ -709,8 +709,8 @@ Materials Design for Battery Anodes: Silicon, Lithium Metal and Phosphorus
 
   - critical breaking size:
 
-    - nanoparticle ≈ 150 nm
-    - nanowire ≈ 300 nm
+    - nanoparticles about 150 nm
+    - nanowire about 300 nm
 
 - Chan et al, Nature Nanotech, 2008 https://dx.doi.org/10.1038/nnano.2007.411
 - Nano Letters 9, 491 (2009) https://dx.doi.org/10.1021/nl8036323

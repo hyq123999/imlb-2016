@@ -458,10 +458,10 @@ Atsuo Yamada, University of Tokyo, Japan
 Concentrated Liquid Electrolytes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- At ≈1M concentration, electrolytes have the highest ionic conductivity,
+- At about 1M concentration, electrolytes have the highest ionic conductivity,
   but require ethylene carbonate (EC)
 
-- At ≈3M concentration, lower ionic conductivity,
+- At about 3M concentration, lower ionic conductivity,
   but no need for EC or |LiPF6|
 
 - Good oxidation stability

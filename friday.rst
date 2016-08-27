@@ -45,13 +45,13 @@ Thick Electrode Designs for Lithium Ion Batteries
 
     - free-casing and sintering
 
-      - Behr, S., Amin, R., Chiang, Y. M. & Tomsia, A. P. Highly structured, additive free lithium-ion cathodes by freeze-casting technology. *Ceram. Forum Int.* 92, E39–E43 (2015).
+      - Behr, S., Amin, R., Chiang, Y. M. & Tomsia, A. P. Highly structured, additive free lithium-ion cathodes by freeze-casting technology. *Ceram. Forum Int.* 92, E39--E43 (2015).
 
         - https://www.researchgate.net/profile/Sebastian_Behr/publication/274716524_Highly-Structured_Additive-Free_Lithium-Ion_Cathodes_by_Freeze-Casting_Technology/links/55d42c3408aec1b0429f444d.pdf
       
       - improved rate capability
 
-  - electrical percolation at 1 vol.% (≈0.2 wt.%),
+  - electrical percolation at 1 vol.% (about 0.2 wt.%),
     mechanical percolation threshold is even lower.
     Only need 1 vol.% carbon.
 
@@ -628,7 +628,7 @@ Ecologically Friendly Recycling of Lithium-Ion Batteries - the Lithorec Process
 
   - extracts 95% of Li from NMC
 
-  - profitability: requires ≈ 4000 tons / year to break even
+  - profitability: requires about 4000 tons / year to break even
 
 ~~~~~~~~~
 Questions

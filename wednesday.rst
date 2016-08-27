@@ -423,9 +423,9 @@ Li-S Batteries at a Crossroads
 
 - Challenge is to do all this simultaneously achieve:
 
-  - high current density (≈ 7 mA/cm\ :sup:`2`)
-  - high sulfur loading (≈ 7 mg/cm\ :sup:`2`)
-  - low electrolyte ratio (≈ 1.9 μL/mg)
+  - high current density (:math:`\approx 7 mA/cm^2`)
+  - high sulfur loading (:math:`\approx  7 mg/cm^2`)
+  - low electrolyte ratio (:math:`\approx 1.9 \mu L/mg`)
 
 - critical paths:
 
@@ -682,7 +682,7 @@ Nonflammable, Fast Charging & Superb Cycle Life Battery Technology For Automotiv
 - 15 minute or faster charge rate (usually 10 minute)
 - cycled up to 25,000 cycles (moved between buildings)
 
-  - capacity started at ≈ 800 mAh/g, now at ≈600 mAh/g
+  - capacity started at about 800 mAh/g, now at about 600 mAh/g
 
 - Safety
 
@@ -700,7 +700,7 @@ Nonflammable, Fast Charging & Superb Cycle Life Battery Technology For Automotiv
 
 - Business plan:
 
-  - Buses → taxis → passenger cars
+  - Buses first, then taxis, then passenger cars
 
 ~~~~~~~~~
 Questions
