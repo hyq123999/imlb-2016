@@ -1,0 +1,23 @@
+# Normally, this wouldn't be here,
+# but these were generated from the RST files.
+*.tex
+# Auxiliary files
+*.aux
+*.fls # latex filename recorder
+*.synctex
+*.synctex.gz
+*.out
+*.toc
+*.log
+*.fdb_latexmk
+# Bibtex files
+*.bbl
+*.blg
+# Viewable output files
+*.dvi
+*.pdf
+
+# Text editor temp files,
+# so you can still commit with the text editor open.
+*.swp
+*.txt~
