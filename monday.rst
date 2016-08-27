@@ -111,7 +111,7 @@ Materials for High Energy Lithuim Ion Batteries
 
 - Also, thermal stability and gas generation problems
 
-- 3.5 to 3.6 :math:`\mathrm{g/cm^2}`
+- 3.5 to 3.6 g/cm\ :sup:`2`
 
 - performance: initial coulombic efficiency
 
