@@ -45,15 +45,15 @@ Thick Electrode Designs for Lithium Ion Batteries
 
     - free-casing and sintering
 
-      - Behr, S., Amin, R., Chiang, Y. M. & Tomsia, A. P. Highly structured, additive free lithium-ion cathodes by freeze-casting technology. *Ceram. Forum Int.* 92, E39--E43 (2015).
-
-        - https://www.researchgate.net/profile/Sebastian_Behr/publication/274716524_Highly-Structured_Additive-Free_Lithium-Ion_Cathodes_by_Freeze-Casting_Technology/links/55d42c3408aec1b0429f444d.pdf
+      - Behr, S., Amin, R., Chiang, Y. M. & Tomsia, A. P. `Highly structured, additive free lithium-ion cathodes by freeze-casting technology`_. *Ceram. Forum Int.* 92, E39--E43 (2015).
       
       - improved rate capability
 
   - electrical percolation at 1 vol.% (about 0.2 wt.%),
     mechanical percolation threshold is even lower.
     Only need 1 vol.% carbon.
+
+.. _Highly structured, additive free lithium-ion cathodes by freeze-casting technology: https://www.researchgate.net/profile/Sebastian_Behr/publication/274716524_Highly-Structured_Additive-Free_Lithium-Ion_Cathodes_by_Freeze-Casting_Technology/links/55d42c3408aec1b0429f444d.pdf
 
 - Semi-solid flow batteries (24M)
 
@@ -100,9 +100,7 @@ Thick Electrode Designs for Lithium Ion Batteries
 
     - magnetic field + sacrificial pore formers
 
-      - Sander & Erb, Northeastern (in press)
-
-        -  https://dx.doi.org/10.1038/nenergy.2016.99
+      - Sander & Erb, Northeastern (in press) https://dx.doi.org/10.1038/nenergy.2016.99
 
   - Linsen Li: no sintering needed [ https://dx.doi.org/10.1021/nl2036854 ? ]
 
