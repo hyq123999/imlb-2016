@@ -3,8 +3,9 @@ HTML=$(patsubst %.rst, html/%.html, $(RST))
 LATEX=$(patsubst %.rst, latex/%.tex, $(RST))
 XETEX=$(patsubst %.rst, xetex/%.tex, $(RST))
 PDF=$(patsubst %.rst, pdf/%.pdf, $(RST))
+PANDOC=$(patsubst %.rst, pandoc/%.pdf, $(RST))
 
-all: $(HTML) $(LATEX) $(XETEX) $(PDF)
+all: $(HTML) $(LATEX) $(XETEX) $(PDF) $(PANDOC)
 
 html/%.html: %.rst
 	# Make sure it runs until the exit status is 0.
@@ -18,6 +19,9 @@ xetex/%.tex : %.rst
 
 pdf/%.pdf : %.rst
 	-rst2pdf $< $@ || touch $<
+
+pandoc/%.pdf : %.rst
+	pandoc --latex-engine=xelatex -o $@ $<
 
 clean:
 	rm -f $(HTML) $(LATEX) $(XETEX) $(PDF)
