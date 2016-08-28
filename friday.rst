@@ -96,7 +96,7 @@ Thick Electrode Designs for Lithium Ion Batteries
 
     - flexible electrodes, so high abuse tolerance
 
-  - we want low tortuosity normal to the place
+  - we want low tortuosity normal to the plane
 
     - magnetic field + sacrificial pore formers
 
