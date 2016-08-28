@@ -24,4 +24,4 @@ pandoc/%.pdf : %.rst
 	pandoc --latex-engine=xelatex -o $@ $<
 
 clean:
-	rm -f $(HTML) $(LATEX) $(XETEX) $(PDF)
+	rm -f $(HTML) $(LATEX) $(XETEX) $(PDF) $(PANDOC)
