@@ -100,9 +100,11 @@ Thick Electrode Designs for Lithium Ion Batteries
 
     - magnetic field + sacrificial pore formers
 
-      - Sander & Erb, Northeastern (in press) https://dx.doi.org/10.1038/nenergy.2016.99
+      - `Sander & Erb, Northeastern (in press) <https://dx.doi.org/10.1038/nenergy.2016.99>`_
 
-  - Linsen Li: no sintering needed [ https://dx.doi.org/10.1021/nl2036854 ? ]
+  - Linsen Li: no sintering needed
+
+    - https://dx.doi.org/10.1021/nl2036854 ?
 
 ~~~~~~~~~
 Questions
@@ -182,7 +184,7 @@ Q: What is the difference between Toshiba LTO and competitors?
     A: Low moisture content.
 
 Q: What a 2C rate? Can't LTO go faster?
-    A: It can got to 10C or 20C.
+    A: It can go to 10C or 20C.
 
 Q: Prevent electrolyte from migrating through gel polymer?
     A: I am not allowed to answer that.
@@ -220,7 +222,7 @@ Electrochemical Behavior of |Li5FeO4| (LFO) in Energy Storage Applications
 
 - Fe oxide + LiOH → |Li5FeO4| (anti-fluorite)
 
-  - Johnson et al. (2010), Chem. Mater. https://dx.doi.org/10.1021/cm902713m
+  - `Johnson et al. (2010), Chem. Mater. <https://dx.doi.org/10.1021/cm902713m>`_
 
 - light gray powder
 
@@ -228,7 +230,7 @@ Electrochemical Behavior of |Li5FeO4| (LFO) in Energy Storage Applications
 
 - Fe atoms want to migrate to octahedral sites
 
-  - Imanishi et al., 2006 https://dx.doi.org/10.1016/j.ssi.2006.03.058
+  - `Imanishi et al., 2006 <https://dx.doi.org/10.1016/j.ssi.2006.03.058>`_
 
 - More than 730 mAh/g on 1st charge
 
@@ -284,7 +286,7 @@ Electrochemical Behavior of |Li5FeO4| (LFO) in Energy Storage Applications
 
     - LFO provides sacrificial Li
 
-    - Su et al., JPS (2016) https://dx.doi.org/10.1016/j.jpowsour.2016.05.063
+    - `Su et al., JPS (2016) <https://dx.doi.org/10.1016/j.jpowsour.2016.05.063>`_
 
 ~~~~~~~~~
 Questions
@@ -312,17 +314,17 @@ Development of Sodium-Ion Batteries for Grid-Scale Energy Storage
 
 - Progress:
 
-  - 1980: Delmas et al. https://dx.doi.org/10.1016/0378-4363(80)90214-4
+  - 1980: `Delmas et al. <https://dx.doi.org/10.1016/0378-4363(80)90214-4>`_
 
-  - 1994: Doeff et al. https://dx.doi.org/10.1149/1.2059323 
+  - 1994: `Doeff et al. <https://dx.doi.org/10.1149/1.2059323>`_
 
   - 2000: Dah et al. [ https://dx.doi.org/10.1149/1.1393348 ? ]
 
-  - 2012: Liang et al. http://dx.doi.org/10.1088/1674-1056/21/2/028201
+  - 2012: `Liang et al. <http://dx.doi.org/10.1088/1674-1056/21/2/028201>`_
 
-  - 2013: Sun et al. https://dx.doi.org/10.1038/ncomms2878
+  - 2013: `Sun et al. <https://dx.doi.org/10.1038/ncomms2878>`_
 
-  - 2015: Wu et al. https://dx.doi.org/10.1126/sciadv.1500330 
+  - 2015: `Wu et al. <https://dx.doi.org/10.1126/sciadv.1500330>`_
 
 - Materials:
 
@@ -400,7 +402,10 @@ Revisiting Zinc Air Batteries: Solutions for Longer Lifetime
 
   - dendrite formation
 
-    - S. J. Banik et al. [ https://dx.doi.org/10.1149/2.040311jes or https://dx.doi.org/10.1016/j.electacta.2014.12.100 ? 
+    - S. J. Banik et al.
+
+      - https://dx.doi.org/10.1149/2.040311jes ?
+      - https://dx.doi.org/10.1016/j.electacta.2014.12.100 ? 
 
     - A. Nakata et al. [ https://dx.doi.org/10.1016/j.electacta.2015.03.076 ? ]
 

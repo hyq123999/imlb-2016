@@ -247,7 +247,8 @@ Lithium- and Sodium-Sulfur Cells with High Sulfur Loading
 
 - many ways of synthesizing the cathode
   with and without binder, etc.
-  Up to e.g. 30 mg/cm^2
+
+  - Up to e.g. 30 mg/cm\ :sup:`2`
 
 - solid electrolytes?
 
@@ -423,9 +424,9 @@ Li-S Batteries at a Crossroads
 
 - Challenge is to do all this simultaneously achieve:
 
-  - high current density (:math:`\approx 7 mA/cm^2`)
-  - high sulfur loading (:math:`\approx  7 mg/cm^2`)
-  - low electrolyte ratio (:math:`\approx 1.9 \mu L/mg`)
+  - high current density (:math:`\approx 7 \mathrm{mA/cm^2}`)
+  - high sulfur loading (:math:`\approx  7 \mathrm{mg/cm^2}`)
+  - low electrolyte ratio (:math:`\approx 1.9 \mu \mathrm{L/mg}`)
 
 - critical paths:
 
@@ -436,7 +437,7 @@ Li-S Batteries at a Crossroads
 - problem: Li\ :sub:`2`\ S gets deposited
   in electrically disconnected parts of the cell.
 
-- Co\ :sub:`9`\ S\ :sub`8` sheets (75 wt.% sulfur)
+- Co\ :sub:`9`\ S\ :sub:`8` sheets (75 wt.% sulfur)
   are graphene-like and conductive
 
 - other challenge: Li metal anode
@@ -546,12 +547,28 @@ On the Road Towards Ca-Based Batteries
 
 - Problem with Ca: no suitable electrolyte
 
-  - Hayashi 2003 [ https://dx.doi.org/10.1016/S0378-7753(03)00307-0 ? ]
-  - Amatucci 2005 [ https://dx.doi.org/10.1016/j.ssi.2005.09.009 ? ]
-  - Seshadri 2013 [ https://dx.doi.org/10.1002/aenm.201300160 ? ]
+  - Hayashi 2003
+
+    - https://dx.doi.org/10.1016/S0378-7753(03)00307-0 ?
+
+  - Amatucci 2005
+    - https://dx.doi.org/10.1016/j.ssi.2005.09.009 ?
+
+  - Seshadri 2013
+
+    - https://dx.doi.org/10.1002/aenm.201300160 ?
+
   - Sadoway 2014 [ ? ]
-  - Ingram 2015 [ https://dx.doi.org/10.1149/2.0811508jes or https://dx.doi.org/10.1021/acs.chemmater.5b04027 ? ]
-  - Alcántara 2016 [ https://dx.doi.org/10.1016/j.elecom.2016.03.016 ? ]
+
+  - Ingram 2015
+
+    - https://dx.doi.org/10.1149/2.0811508jes ?
+
+    - https://dx.doi.org/10.1021/acs.chemmater.5b04027 ?
+
+  - Alcántara 2016
+
+    - https://dx.doi.org/10.1016/j.elecom.2016.03.016 ?
 
 - https://ecs.confex.com/ecs/imlb2016/webprogram/Paper64238.html
 

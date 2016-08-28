@@ -194,7 +194,7 @@ Visualization of Electrochemical Reactions in Battery Materials with X-ray Micro
 
   - 280 mAh/g is the practical limit for cathodes today
 
-    - Thackeray (1997) https://dx.doi.org/10.1016/S0079-6786(97)81003-5
+    - `Thackeray (1997) <https://dx.doi.org/10.1016/S0079-6786(97)81003-5>`_
 
     - strain, fracture, loss of electrical contact
 
@@ -360,16 +360,16 @@ Designing and Realizing Higher Energy Density Multivalent Cathodes
 
 - cation coordination preferences
 
-  - Brown, Acta Cryst 1988 https://dx.doi.org/10.1107/S0108768188007712
+  - `Brown, Acta Cryst 1988 <https://dx.doi.org/10.1107/S0108768188007712>`_
 
   - Mg\ :sup:`2+` 0.72 Å
   - Li\ :sup:`+` 0.76 Å
   - Zn\ :sup:`2+` 0.74 Å
   - Ca\ :sup:`2+` 1.10 Å
 
-  - Liu et al., 2015 https://dx.doi.org/10.1039/C4EE03389B
+  - `Liu et al., 2015 <https://dx.doi.org/10.1039/C4EE03389B>`_
 
-  - Rong et al., 2015 https://dx.doi.org/10.1021/acs.chemmater.5b02342
+  - `Rong et al., 2015 <https://dx.doi.org/10.1021/acs.chemmater.5b02342>`_
 
   - Zn and Mg have same size and valence,
     but activation barriers are very different.
@@ -592,17 +592,17 @@ Ab-Initio MD Simulations of Redox Reactions of Liquid Electrolytes and SEI Forma
 
 - Publications:
 
-  - Ushirogata et al. (2013) https://dx.doi.org/10.1021/ja405079s
-  - Ushirogata et al. (2015) https://dx.doi.org/10.1149/2.0301514jes
-  - Okuno et al. (2016) https://dx.doi.org/10.1039/C5CP07583A
+  - `Ushirogata et al. (2013) <https://dx.doi.org/10.1021/ja405079s>`_
+  - `Ushirogata et al. (2015) <https://dx.doi.org/10.1149/2.0301514jes>`_
+  - `Okuno et al. (2016) <https://dx.doi.org/10.1039/C5CP07583A>`_
 
 - Posters:
 
-  - #0271 https://ecs.confex.com/ecs/imlb2016/webprogram/Paper76365.html
-  - #1062 https://ecs.confex.com/ecs/imlb2016/webprogram/Paper75689.html
-  - #1064 https://ecs.confex.com/ecs/imlb2016/webprogram/Paper75693.html
-  - #1173 https://ecs.confex.com/ecs/imlb2016/webprogram/Paper75874.html
-  - #0220 https://ecs.confex.com/ecs/imlb2016/webprogram/Paper76287.html
+  - `#0271 <https://ecs.confex.com/ecs/imlb2016/webprogram/Paper76365.html>`_
+  - `#1062 <https://ecs.confex.com/ecs/imlb2016/webprogram/Paper75689.html>`_
+  - `#1064 <https://ecs.confex.com/ecs/imlb2016/webprogram/Paper75693.html>`_
+  - `#1173 <https://ecs.confex.com/ecs/imlb2016/webprogram/Paper75874.html>`_
+  - `#0220 <https://ecs.confex.com/ecs/imlb2016/webprogram/Paper76287.html>`_
 
 ~~~~~~~~~
 Questions
@@ -705,18 +705,18 @@ Materials Design for Battery Anodes: Silicon, Lithium Metal and Phosphorus
 
 - *in situ* TEM
 
-  - McDowell et al., Nano Energy, 2012 http://dx.doi.org/10.1016/j.nanoen.2012.03.004
+  - `McDowell et al., Nano Energy, 2012 <http://dx.doi.org/10.1016/j.nanoen.2012.03.004>`_
 
   - critical breaking size:
 
     - nanoparticles about 150 nm
     - nanowire about 300 nm
 
-- Chan et al, Nature Nanotech, 2008 https://dx.doi.org/10.1038/nnano.2007.411
-- Nano Letters 9, 491 (2009) https://dx.doi.org/10.1021/nl8036323
-- Nano Letters, 11, 2949 https://dx.doi.org/10.1021/nl201470j
-- Nature Nanotech 7, 310 (2012) https://dx.doi.org/10.1038/nnano.2012.35
-- Sun, Lie, Cui (2016) https://dx.doi.org/10.1038/nenergy.2016.71
+- `Chan et al, Nature Nanotech, 2008 <https://dx.doi.org/10.1038/nnano.2007.411>`_
+- `Nano Letters 9, 491 (2009) <https://dx.doi.org/10.1021/nl8036323>`_
+- `Nano Letters, 11, 2949 <https://dx.doi.org/10.1021/nl201470j>`_
+- `Nature Nanotech 7, 310 (2012) <https://dx.doi.org/10.1038/nnano.2012.35>`_
+- `Sun, Lie, Cui (2016) <https://dx.doi.org/10.1038/nenergy.2016.71>`_
 
 - Pros:
 
@@ -731,7 +731,7 @@ Materials Design for Battery Anodes: Silicon, Lithium Metal and Phosphorus
 
 - Gen 8: Pomegranate-like Si battery
 
-  - Nature Nanotech 9, 187 (2014) https://dx.doi.org/10.1038/nnano.2014.6
+  - `Nature Nanotech 9, 187 (2014) <https://dx.doi.org/10.1038/nnano.2014.6>`_
 
   - Greater than 1200 mAh/cm\ :sup:`3` is achievable
 
@@ -860,10 +860,10 @@ Silicon and its Challenging Interfaces
 
 - publications
 
-  - Phillippe et al. (2012) https://dx.doi.org/10.1021/cm2034195
-  - Phillippe et al. (2013) https://dx.doi.org/10.1021/ja403082s
-  - Lindgren et al. (2016) https://dx.doi.org/10.1021/acsami.6b02650
-  - Xu et al. (2015) https://dx.doi.org/10.1021/acs.chemmater.5b00339
+  - `Phillippe et al. (2012) <https://dx.doi.org/10.1021/cm2034195>`_
+  - `Phillippe et al. (2013) <https://dx.doi.org/10.1021/ja403082s>`_
+  - `Lindgren et al. (2016) <https://dx.doi.org/10.1021/acsami.6b02650>`_
+  - `Xu et al. (2015) <https://dx.doi.org/10.1021/acs.chemmater.5b00339>`_
 
 ~~~~~~~~~
 Questions
@@ -1118,12 +1118,12 @@ A Cost Efficient Silicon-Carbon based Anode Material for Lithium-Ion Batteries
 
 - Posters
 
-  - 583: https://ecs.confex.com/ecs/imlb2016/webprogram/Paper77039.html
-  - 224: https://ecs.confex.com/ecs/imlb2016/webprogram/Paper76303.html
-  - 543: https://ecs.confex.com/ecs/imlb2016/webprogram/Paper76753.html
-  - 227: https://ecs.confex.com/ecs/imlb2016/webprogram/Paper76328.html
-  - 583: https://ecs.confex.com/ecs/imlb2016/webprogram/Paper77039.html
-  - 945: https://ecs.confex.com/ecs/imlb2016/webprogram/Paper75299.html
+  - `583 <https://ecs.confex.com/ecs/imlb2016/webprogram/Paper77039.html>`_
+  - `224 <https://ecs.confex.com/ecs/imlb2016/webprogram/Paper76303.html>`_
+  - `543 <https://ecs.confex.com/ecs/imlb2016/webprogram/Paper76753.html>`_
+  - `227 <https://ecs.confex.com/ecs/imlb2016/webprogram/Paper76328.html>`_
+  - `583 <https://ecs.confex.com/ecs/imlb2016/webprogram/Paper77039.html>`_
+  - `945 <https://ecs.confex.com/ecs/imlb2016/webprogram/Paper75299.html>`_
 
 
 - http://imlb.org/speakers/#Voje
@@ -1201,7 +1201,7 @@ Zhangquan Peng, Institute of Applied Chemistry, China
 Oxygen Electrochemistry in Aprotic Li-Air Batteries
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Luntz & McCloskey (2014) https://dx.doi.org/10.1021/cr500054y
+- `Luntz & McCloskey (2014) <https://dx.doi.org/10.1021/cr500054y>`_
 
 - ORR & sudden death
 
