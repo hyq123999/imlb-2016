@@ -1,4 +1,5 @@
-XETEX=$(wildcard *.tex)
+RST=$(wildcard ../*.rst)
+XETEX=$(patsubst ../%.rst, %.tex, $(RST))
 PDF=$(patsubst %.tex, %.pdf,$(XETEX))
 
 all: $(PDF)
