@@ -396,10 +396,7 @@ Electrolytes without Ethylene Carbonate for High Voltage NMC/Graphite Li-Ion Cel
   - best EC-free electrolyte
 
 #. Gas generation
-#. Impedance growth
-
-  - symmetric cells
-
+#. Impedance growth (symmetric cells)
 #. Li plating
 #. Long-term cycling
 #. Safety
