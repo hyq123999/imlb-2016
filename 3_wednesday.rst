@@ -97,8 +97,8 @@ Li-Ion Batteries and Beyond (Li-S, Li-oxygen, Na-ion and Mg): What Are the Reali
 Questions
 ~~~~~~~~~
 
-- Q: FEC?
-  - A: Yes, it's good. Polymerizes between 4.5 V and 4.8 V.
+Q: FEC?
+    A: Yes, it's good. Polymerizes between 4.5 V and 4.8 V.
 
 - https://ecs.confex.com/ecs/imlb2016/webprogram/Paper76336.html
 
@@ -149,18 +149,18 @@ Next Generation Battery Technologies based on Reversible Lithium Metal Electrode
 
     - high shear modulus
 
- - solution: semi-solid state battery (no separator)
+  - solution: semi-solid state battery (no separator)
 
-   - can't say what it is (patent pending)
-   - not a polymer or a composite
-   - blocks dendrites
-   - Layers:
+    - can't say what it is (patent pending)
+    - not a polymer or a composite
+    - blocks dendrites
+    - Layers:
 
-     - Li metal
-     - solid state electrolyte
-       (so Li metal is not exposed to liquid electrolyte)
-     - liquid electrolyte
-     - Li-ion cathode
+      - Li metal
+      - solid state electrolyte
+        (so Li metal is not exposed to liquid electrolyte)
+      - liquid electrolyte
+      - Li-ion cathode
 
 - https://ecs.confex.com/ecs/imlb2016/webprogram/Paper65050.html
 
@@ -638,9 +638,9 @@ Towards Na-ion and K-ion Batteries
 
     - https://dx.doi.org/10.1080/00018738100101367
 
-   - Komaba et al., 2015
+  - Komaba et al., 2015
 
-     - https://dx.doi.org/10.1016/j.elecom.2015.09.002
+    - https://dx.doi.org/10.1016/j.elecom.2015.09.002
 
 ~~~~~~~~~
 Questions
