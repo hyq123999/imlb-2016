@@ -5,7 +5,7 @@ XETEX=$(patsubst %.rst, xetex/%.tex, $(RST))
 PDF=$(patsubst %.rst, pdf/%.pdf, $(RST))
 PANDOC=$(patsubst %.rst, pandoc/%.pdf, $(RST))
 
-all: $(HTML) $(LATEX) $(XETEX) $(PDF) $(PANDOC)
+all: $(HTML) $(LATEX) $(XETEX) $(PDF) $(PANDOC) imlb-notes.zip
 
 html/%.html: %.rst
 	# Make sure it runs until the exit status is 0.
@@ -22,6 +22,9 @@ pdf/%.pdf : %.rst
 
 pandoc/%.pdf : %.rst
 	pandoc --latex-engine=xelatex -o $@ $<
+
+imlb-notes.zip : $(RST)
+	zip $@ $(RST)
 
 clean:
 	rm -f $(HTML) $(LATEX) $(XETEX) $(PDF) $(PANDOC)
