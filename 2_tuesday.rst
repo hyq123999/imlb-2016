@@ -242,11 +242,11 @@ Making the Invisible Visible: Advanced Diagnosis Methods for Lithium Ion Recharg
     - FIB (focused-ion beam): requires a patient student
     - LIPON: interface-limited at high temperature
 
- - Coherent X-ray diffraction:
+  - Coherent X-ray diffraction:
 
-   - speckles from X-ray beam
-   - reconstruct particle from phase speckles (use software as a lens)
-   - defects are nucleation sites from new phases
+    - speckles from X-ray beam
+    - reconstruct particle from phase speckles (use software as a lens)
+    - defects are nucleation sites from new phases
 
 - Invisible things
 
